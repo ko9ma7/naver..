@@ -8,438 +8,156 @@
         {
           "id": "naver-1",
           "rank": 1,
-          "keyword": "BTS 코르티스 MAMA 대상 수상",
-          "title": "BTS 코르티스 MAMA 대상 수상",
-          "rawKeyword": "BTS 코르티스 MAMA 대상 수상",
+          "keyword": "굿파트너 2",
+          "title": "굿파트너 2",
+          "rawKeyword": "굿파트너 2",
           "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
           "priority": 100,
           "source": "naver",
           "expansions": [
-            "BTS 뷔",
-            "BTS 정국",
-            "BTS 지민",
-            "수상한 파트너",
-            "수상 뜻",
-            "수상구조사",
-            "수상한그녀",
-            "수상한 pt샵"
+            "굿파트너 2화 줄거리",
+            "드라마 굿파트너 2",
+            "굿파트너 2회 줄거리",
+            "굿파트너 2 1회 줄거리",
+            "굿파트너 2 시간",
+            "굿파트너2 ott",
+            "굿파트너2 등장인물",
+            "굿파트너2 남지현"
           ],
-          "expansionSeed": "BTS",
+          "expansionSeed": "굿파트너 2",
           "insight": {
             "titles": {
-              "seo": "BTS 코르티스 MAMA 대상 수상 최신 이슈와 핵심 내용 정리",
-              "home": "BTS 코르티스 MAMA 대상 수상, BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선 관련 확인할 점",
-              "topic": "BTS 코르티스 MAMA 대상 수상",
+              "seo": "굿파트너 2 최신 이슈와 핵심 내용 정리",
+              "home": "굿파트너 2, 장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다 관련 확인할 점",
+              "topic": "굿파트너 2",
               "topicGroup": "네이버 실시간 검색어"
             },
             "facts": [
               {
-                "text": "방탄소년단( BTS )과 코르티스 가 대중음악 시상식 '2026 마마 어워즈'(2026 MAMA AWARDS) 둘째 날 대상 을 받았다.",
+                "text": "장나라가 이끄는 '굿파트너2'가 시즌1보다",
                 "sourceIndex": 0
               },
               {
-                "text": "이외에도 코르티스 는 베스트 송 톱10, 베스트 댄스 퍼포먼스 남자 그룹상을 수상 해 총 3관왕에 올랐다. 또 하나의 대상 '올해의 앨범 with VISA (ALBUM OF THE YEAR with VISA)'는 방탄소년단의 '아리랑(ARIRANG)'이 호명됐다.",
+                "text": "배우 표지훈(왼쪽부터), 김혜윤, 서민정 감독, 장나라, 박해진이 20일 서울 양천구 목동 SBS에서 열린 SBS 새 금토드라마 ' 굿파트너2 ' 제작발표회에 참석해 포토타임을 갖고 있다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121047200005?input=1195m",
-                "press": "연합뉴스"
+                "url": "https://www.news1.kr/entertain/broadcast-tv/6361528",
+                "press": "뉴스1"
               },
               {
-                "url": "https://news.jtbc.co.kr/article/NB12329217?influxDiv=NAVER",
-                "press": "JTBC"
+                "url": "https://isplus.com/article/view/isp202611200107",
+                "press": "일간스포츠"
               }
             ],
             "images": [
-              "https://img0.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121047200005_01_i_P4.jpg"
+              "https://i3n.news1.kr/system/photos/2026/11/21/8226035/high.jpg"
             ],
             "press": [
-              "연합뉴스",
-              "JTBC"
+              "뉴스1",
+              "일간스포츠"
             ],
             "headlines": [
-              "BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선",
-              "코르티스 ·방탄소년단 '2026 MAMA ' 챕터2 대상 [종합]"
+              "장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다",
+              "[포토] ' 굿파트너2 ' 화이팅"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "naver-2",
           "rank": 2,
-          "keyword": "22일 첫차 운행 재개",
-          "title": "22일 첫차 운행 재개",
-          "rawKeyword": "22일 첫차 운행 재개",
+          "keyword": "박진영 김유정 겨누다 인질됐다",
+          "title": "박진영 김유정 겨누다 인질됐다",
+          "rawKeyword": "박진영 김유정 겨누다 인질됐다",
           "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
           "priority": 99,
           "source": "naver",
           "expansions": [
-            "11월 22일 날씨",
-            "11월 22일",
-            "음력 11월 22일",
-            "음력 10월22일",
-            "12월22일",
-            "11월 22일 마라톤",
-            "3월 22일",
-            "11월 22일 축제"
+            "김유정 박진영",
+            "박진영 갓세븐",
+            "박진영 나무위키",
+            "박진영 배우",
+            "박진영 종교",
+            "박진영 jyp",
+            "배우 박진영",
+            "박진영 콘서트"
           ],
-          "expansionSeed": "22일",
-          "insight": {
-            "titles": {
-              "seo": "22일 첫차 운행 재개 최신 이슈와 핵심 내용 정리",
-              "home": "22일 첫차 운행 재개, '소정리역 열차탈선' 복구 완료…22일 첫차 운행재개 관련 확인할 점",
-              "topic": "22일 첫차 운행 재개",
-              "topicGroup": "네이버 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "코레일이 21일 오전 경부선 소정리역에서 발생한 화물열차 궤도이탈 사고 복구작업을 완료하고 천안~대전 구간을 포함해 모든 열차의 운행을 22일 첫차부터 재개한다고 밝혔다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "한국철도공사(코레일)는 밤샘 복구 작업을 거쳐 22일 첫차 부터 모든 열차 운행 을 재개 할 방침이다. 코레일 등에 따르면 이날 오전 5시 37분께 세종시 소정면 경부선 소정리역으로 진입하던 제3810 화물열차가 자동 비상제동이 걸린 뒤 궤도를 이탈했다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.newsis.com/view/NISX20261121_0003877812",
-                "press": "뉴시스"
-              },
-              {
-                "url": "https://biz.heraldcorp.com/article/10944793?ref=naver",
-                "press": "헤럴드경제"
-              }
-            ],
-            "images": [
-              "https://img1.newsis.com/2026/11/21/NISI20261121_0002298651_web.jpg"
-            ],
-            "press": [
-              "뉴시스",
-              "헤럴드경제"
-            ],
-            "headlines": [
-              "'소정리역 열차탈선' 복구 완료…22일 첫차 운행재개",
-              "[속보] 코레일 “ 22일 첫차 부터 경부선 일반열차 운행 재개 ”"
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
+          "expansionSeed": "박진영"
         },
         {
           "id": "naver-3",
           "rank": 3,
-          "keyword": "수원 삼성 1부 승격 우승",
-          "title": "수원 삼성 1부 승격 우승",
-          "rawKeyword": "수원 삼성 1부 승격 우승",
+          "keyword": "최태원 AI 인재 플랫폼",
+          "title": "최태원 AI 인재 플랫폼",
+          "rawKeyword": "최태원 AI 인재 플랫폼",
           "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
           "priority": 98,
           "source": "naver",
           "expansions": [
-            "수원삼성",
-            "수원 날씨",
-            "수원 스타필드",
-            "수원 가볼만한곳",
-            "수원 맛집",
-            "수원 행궁동",
-            "수원 타임빌라스",
-            "수원대"
+            "인재개발플랫폼",
+            "sk 최태원 김희영",
+            "최태원 노소영",
+            "최태원 동거인",
+            "최태원 김희영 자녀",
+            "최태원 위자료",
+            "최태원 김사랑",
+            "최태원 나무위키"
           ],
-          "expansionSeed": "수원",
+          "expansionSeed": "최태원",
           "insight": {
             "titles": {
-              "seo": "수원 삼성 1부 승격 우승 최신 이슈와 핵심 내용 정리",
-              "home": "수원 삼성 1부 승격 우승, '1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정 관련 확인할 점",
-              "topic": "수원 삼성 1부 승격 우승",
+              "seo": "최태원 AI 인재 플랫폼 최신 이슈와 핵심 내용 정리",
+              "home": "최태원 AI 인재 플랫폼, 최태원 회장 “韓日 기업·대학, AI 인재 양성 플랫폼 구축하자\" 관련 확인할 점",
+              "topic": "최태원 AI 인재 플랫폼",
               "topicGroup": "네이버 실시간 검색어"
             },
             "facts": [
               {
-                "text": "직전 32라운드에서 K리그2 최소 2위를 확보하며 2장의 '다이렉트 1부 승격 권' 가운데 1장을 챙긴 수원 은 마침내 이날 경남을 잡고 우승 까지 완성했다.",
+                "text": "최태원 SK(034730)그룹 회장이 한국과 일본 기업·대학이 함께 인공지능(AI) 인재를 양성하는 플랫폼을 구축하자고 21일 제안했다. 최 회장은 이날 도쿄 분쿄구 도쿄대 야스다",
                 "sourceIndex": 0
               },
               {
-                "text": "3년의 '2부 수모'를 끝내고 1부 로 돌아오는 수원 삼성 이 홈 최종전 완승으로 K리그2 우승 까지 확정했습니다. <기자> 추위를 녹인 2만 홈팬들의 뜨거운 응원 속에, 수원 은 홈 최종전에서도 압도적인 경기력을 뽐냈습니다.",
+                "text": "AI 는 그저 하나의 도구에 불과한 것이 아니기 때문\"이라고 부연했다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121039700007?input=1195m",
-                "press": "연합뉴스"
+                "url": "https://biz.chosun.com/stock/finance/2026/11/21/ZJYPV4KSE5B3JB74FS7YDO7IQU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+                "press": "조선비즈"
               },
               {
-                "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857105&plink=ORI&cooper=NAVER",
-                "press": "SBS"
+                "url": "https://www.yna.co.kr/view/AKR20261121039900073?input=1195m",
+                "press": "연합뉴스"
               }
             ],
             "images": [
-              "https://img1.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112103510006100_P4.jpg"
+              "https://biz.chosun.com/resizer/v2/LYXVIE7VJRMQLLWXC7ENQWZOSQ.jpg?auth=dca536873f5249580d1a8aa0bfd810fd49f8332b3fd96d30dfecd2b859149b86&width=573&height=300&smart=true"
             ],
             "press": [
-              "연합뉴스",
-              "SBS"
+              "조선비즈",
+              "연합뉴스"
             ],
             "headlines": [
-              "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정",
-              "' 1부 승격 ' 수원 삼성 , K리그2 우승 도 확정"
+              "최태원 회장 “韓日 기업·대학, AI 인재 양성 플랫폼 구축하자\"",
+              "최태원 \" AI 시대 한일 기업·대학 함께하는 플랫폼 만들자\""
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "naver-4",
           "rank": 4,
-          "keyword": "구글 인도네시아 유튜브 삭제",
-          "title": "구글 인도네시아 유튜브 삭제",
-          "rawKeyword": "구글 인도네시아 유튜브 삭제",
+          "keyword": "채령 라면 한 번도 없어",
+          "title": "채령 라면 한 번도 없어",
+          "rawKeyword": "채령 라면 한 번도 없어",
           "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
           "priority": 97,
-          "source": "naver",
-          "expansions": [
-            "구글 계정 삭제",
-            "유튜브 프리미엄",
-            "유튜브 음원추출",
-            "유튜브 오류",
-            "유튜브 뮤직",
-            "유튜브 다운로드",
-            "유튜브 pip모드",
-            "유튜브 백그라운드"
-          ],
-          "expansionSeed": "유튜브",
-          "insight": {
-            "titles": {
-              "seo": "구글 인도네시아 유튜브 삭제 최신 이슈와 핵심 내용 정리",
-              "home": "구글 인도네시아 유튜브 삭제, 구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발 관련 확인할 점",
-              "topic": "구글 인도네시아 유튜브 삭제",
-              "topicGroup": "네이버 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "그 결과 구글 보고서에 따르면 지난 9월까지 5년 동안 삭제 된 인도네시아 관련 유튜브 채널 총 2만7천516개 중 99%가 작년 9월 이후에 폐쇄됐다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "구글 이 인도네시아 정부를 지지하는 유튜브 채널 1만9000여개를 대거 삭제 하자 인도네시아 정부가 구체적인 근거를 공개하라며 반발하고 나섰다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.yna.co.kr/view/AKR20261121045700084?input=1195m",
-                "press": "연합뉴스"
-              },
-              {
-                "url": "https://view.asiae.co.kr/article/2026112120584048808",
-                "press": "아시아경제"
-              }
-            ],
-            "images": [
-              "https://img2.yna.co.kr/photo/etc/epa/2026/03/26/PEP20260326063101009_P4.jpg"
-            ],
-            "press": [
-              "연합뉴스",
-              "아시아경제"
-            ],
-            "headlines": [
-              "구글, 인도네시아 친정부 유튜브 채널 대량 삭제…당국 반발",
-              "구글 , 인도네시아 친정부 유튜브 1만9000개 삭제 …당국 “근거 밝혀라”"
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "naver-5",
-          "rank": 5,
-          "keyword": "신한은행 공동 선두",
-          "title": "신한은행 공동 선두",
-          "rawKeyword": "신한은행 공동 선두",
-          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
-          "priority": 96,
-          "source": "naver",
-          "expansions": [
-            "신한은행 고객센터",
-            "신한은행 atm",
-            "신한은행 운세",
-            "신한은행 영업시간",
-            "신한은행 지점",
-            "신한은행 농구단",
-            "신한은행 점검시간",
-            "신한은행 사주"
-          ],
-          "expansionSeed": "신한은행",
-          "insight": {
-            "titles": {
-              "seo": "신한은행 공동 선두 최신 이슈와 핵심 내용 정리",
-              "home": "신한은행 공동 선두, 여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁 관련 확인할 점",
-              "topic": "신한은행 공동 선두",
-              "topicGroup": "네이버 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁 이성훈 기자 Seoul 작성 2026.11.21 18:00 조회 조회수 ▲ 신한은행 신지현의 슛 여자프로농구 인천 신한은행이 지난 시즌 우승팀 청주 KB를 4연패에 빠뜨리며 공동 선두 자리를 되찾았습니다. 신한은행은 21일 청주체육관에서 열린 KB스타뱅킹 2026-2027 여자프로농구 정규리그 원정 경기에서 84-69로 이겼습니다. 지난 시즌 최하위에 그쳤으나 이번 시즌엔 초반 선두권 경쟁을 벌이는 신한은행은 최근 3연승을 내달리며 5승 1패를 기록, 용인 삼성생명과 공동 선두에 올랐습니다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "여자프로농구 인천 신한은행 이 청주 KB국민 은행 을 꺾고 3연승을 질주해 공동 선두 로 도약했다. 신한은행 은 21일 청주체육관에서 열린 국민 은행 과의 KB스타뱅킹 2026~2027시즌 여자프로농구 정규리그 원정 경기에서 84-69로 이겼다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857072&plink=ORI&cooper=NAVER",
-                "press": "SBS"
-              },
-              {
-                "url": "https://www.newsis.com/view/NISX20261121_0003877782",
-                "press": "뉴시스"
-              }
-            ],
-            "images": [
-              "https://img.sbs.co.kr/newimg/news/20261121/202243075_1280.jpg"
-            ],
-            "press": [
-              "SBS",
-              "뉴시스"
-            ],
-            "headlines": [
-              "여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁",
-              "여자농구 신한은행 , 3연승으로 공동 선두 …BNK는 2연패 탈출(종합)"
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "naver-6",
-          "rank": 6,
-          "keyword": "토트넘 입스위치",
-          "title": "토트넘 입스위치",
-          "rawKeyword": "토트넘 입스위치",
-          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
-          "priority": 95,
-          "source": "naver",
-          "expansions": [
-            "토트넘 입스위치 타운"
-          ],
-          "expansionSeed": "토트넘 입스위치",
-          "insight": {
-            "titles": {
-              "seo": "토트넘 입스위치 최신 이슈와 핵심 내용 정리",
-              "home": "토트넘 입스위치, 양민혁 절망! \"여기 양민혁 같은 선수 많다\" 손흥민 경고, 정확한 팩트였다…18세 경쟁자, EPL 첫 선발 '1G 1AS' 펄펄 관련 확인할 점",
-              "topic": "토트넘 입스위치",
-              "topicGroup": "네이버 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "토트넘 은 22일(한국시간) 영국 런던의 토트넘 홋스퍼 스타디움에서 입스위치 타운과 2026-2027시즌 잉글리시 프리미어리그 11라운드 홈 경기를 치렀다. 이날 로베르토 데 제르비 감독은 2008년생 윌리엄스-바넷을 선발 명단에 포함했다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "로베르토 데 제르비 감독이 이끄는 토트넘 은 22일 오전 0시(한국시간) 영국 런던의 토트넘 홋스퍼 스타디움에서 열린 2026-2027시즌 잉글랜드 프리미어리그 11라운드에서 입스위치 를 2-0으로 꺾었다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.xportsnews.com/article/2221858",
-                "press": "엑스포츠뉴스"
-              },
-              {
-                "url": "http://www.osen.co.kr/article/G1112913560",
-                "press": "OSEN"
-              }
-            ],
-            "images": [
-              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F311%2F2026%2F11%2F22%2F2082877.jpg&type=fface200_200&expire=2&refresh=true"
-            ],
-            "press": [
-              "엑스포츠뉴스",
-              "OSEN"
-            ],
-            "headlines": [
-              "양민혁 절망! \"여기 양민혁 같은 선수 많다\" 손흥민 경고, 정확한 팩트였다…18세 경쟁자, EPL 첫 선발 '1G 1AS' 펄펄→토트넘 최연소 득점 3위",
-              "\" 토트넘 에 이런 선수가 있었다니\"...18세 신성, PL 첫 선발부터 1골 1도움..."
-            ],
-            "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "naver-7",
-          "rank": 7,
-          "keyword": "클로드 리만 가설 증명",
-          "title": "클로드 리만 가설 증명",
-          "rawKeyword": "클로드 리만 가설 증명",
-          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
-          "priority": 94,
-          "source": "naver",
-          "expansions": [
-            "리만가설",
-            "클로드 ai",
-            "클로드 요금제",
-            "클로드 무료",
-            "클로드 할인",
-            "클로드 가격",
-            "클로드코드",
-            "클로드 모네"
-          ],
-          "expansionSeed": "클로드",
-          "insight": {
-            "titles": {
-              "seo": "클로드 리만 가설 증명 최신 이슈와 핵심 내용 정리",
-              "home": "클로드 리만 가설 증명, \"AI 클로드, 수학 최대 난제 리만가설 증명\" 주장 나와 관련 확인할 점",
-              "topic": "클로드 리만 가설 증명",
-              "topicGroup": "네이버 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "보도에 따르면 수학자이기도 한 앤트로픽 연구원 레벤트 알포게는 이날 자신의 웹사이트에 올린 글과 4쪽짜리 문서를 통해 \" 클로드 와 협업해 리만 가설 의 증명 을 발견했다고 믿는다\"고 주장했다. 이 주장은 아직 독립적으로 검증되거나 외부 전문가의 정밀 검토를 거치진 않았다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "앤트로픽은 지난 8월 미공개 연구용 클로드 가 리만 가설 증명 에는 실패했지만, 직선 위에 있다고 증명 된 영점의 최소 비율을 41.6%에서 67.2%로 끌어올렸다고 발표했다. 그로부터 석 달 남짓 만에 가설 자체를 증명 했다는 주장이 같은 회사에서 나온 것이다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.yna.co.kr/view/AKR20261121011500009?input=1195m",
-                "press": "연합뉴스"
-              },
-              {
-                "url": "https://platum.kr/archives/299187",
-                "press": "플래텀"
-              }
-            ],
-            "images": [
-              "https://img2.yna.co.kr/photo/reuters/2026/11/11/PRU20261111096001009_P4.jpg"
-            ],
-            "press": [
-              "연합뉴스",
-              "플래텀"
-            ],
-            "headlines": [
-              "\"AI 클로드, 수학 최대 난제 리만가설 증명\" 주장 나와",
-              "167년 묵은 수학 난제 ' 리만 가설 ', 수학자와 AI가 내놓은 증명 의 의미"
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "naver-8",
-          "rank": 8,
-          "keyword": "채령 혼자 폭식 경험",
-          "title": "채령 혼자 폭식 경험",
-          "rawKeyword": "채령 혼자 폭식 경험",
-          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
-          "priority": 93,
           "source": "naver",
           "expansions": [
             "채령 채연",
@@ -454,66 +172,121 @@
           "expansionSeed": "채령",
           "insight": {
             "titles": {
-              "seo": "채령 혼자 폭식 경험 최신 이슈와 핵심 내용 정리",
-              "home": "채령 혼자 폭식 경험, 이영자 당황시킨 소식좌…ITZY 채령 \"라면 끓여 본 적 없어\"(전참시)[TV캡처] 관련 확인할 점",
-              "topic": "채령 혼자 폭식 경험",
+              "seo": "채령 라면 한 번도 없어 최신 이슈와 핵심 내용 정리",
+              "home": "채령 라면 한 번도 없어, ITZY 채령 “라면 먹은 적 혼자 살면서 한번도 없어, 미디움 피자 3쪽=폭식”(전참시) 관련 확인할 점",
+              "topic": "채령 라면 한 번도 없어",
               "topicGroup": "네이버 실시간 검색어"
             },
             "facts": [
               {
-                "text": "이날 채령 은 과자 한 통 다 먹을 수 있다며 자신했지만, 이영자는 \"우리 기준에서 과자 다",
+                "text": "채령 은 \" 라면 은 집에서 제가 혼자 살면서 한 번도 끓여 본 적이 없다\"면서 철저한 식단 관리를 드러냈다. 채령 은 본인만의 폭식 기준을 묻자 \"저 피자도 세 쪽까지 먹어봤다\"고 밝혔다.",
                 "sourceIndex": 0
               },
               {
-                "text": "다이어트가 일상인 현실에서, ‘생각보다’ 많은 이들이 폭식 을 경험 하고 그로 인한 좌절과 자책에 빠진다.",
+                "text": "채령 은 당황하더니 \"혼자 살면서 한 번도 라면 끓여 먹어 본 적 없다\"라고 털어놨다. 그렇다면 최대로 많이 먹은 경험이 있냐고 묻자, 채령 은 \"피자도 세 조각도 먹어봤다\"라며 자신 없는 목소리로 답했다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "http://www.stoo.com/article.php?aid=110032547830",
-                "press": "스포츠투데이"
+                "url": "https://www.newsen.com/news_view.php?uid=202611212300526110",
+                "press": "뉴스엔"
               },
               {
-                "url": "https://www.khan.co.kr/article/202303241606015",
-                "press": "경향신문"
+                "url": "http://www.stoo.com/article.php?aid=110032547830",
+                "press": "스포츠투데이"
               }
             ],
             "images": [
-              "https://www.stoo.com/upimages/gisaimg/202611/221100325.jpg"
+              "https://photo.newsen.com/news_photo/2026/11/21/202611212300526110_1.jpg"
             ],
             "press": [
-              "스포츠투데이",
-              "경향신문"
+              "뉴스엔",
+              "스포츠투데이"
             ],
             "headlines": [
-              "이영자 당황시킨 소식좌…ITZY 채령 \"라면 끓여 본 적 없어\"(전참시)[TV캡처]",
-              "폭식 과 다이어트 굴레에 대항하라[이진송의 아니 근데]"
+              "ITZY 채령 “라면 먹은 적 혼자 살면서 한번도 없어, 미디움 피자 3쪽=폭식”(전참시)",
+              "이영자 당황시킨 소식좌…ITZY 채령 \" 라면 끓여 본 적 없어 \"(전참시)[TV캡..."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
-          "id": "naver-9",
-          "rank": 9,
+          "id": "naver-5",
+          "rank": 5,
+          "keyword": "지수 addicted",
+          "title": "지수",
+          "rawKeyword": "지수",
+          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
+          "priority": 96,
+          "source": "naver",
+          "expansions": [
+            "지수 나무위키",
+            "지수 addicted",
+            "지수 서강준",
+            "지수 안보현",
+            "지수 친오빠",
+            "블랙핑크 지수",
+            "코스피지수",
+            "다우지수"
+          ],
+          "expansionSeed": "지수",
+          "insight": {
+            "titles": {
+              "seo": "지수 addicted 최신 이슈와 핵심 내용 정리",
+              "home": "지수 addicted, 블랙핑크 지수, ‘ADDICTED’로 빛낸 겨울 올블랙 비주얼 관련 확인할 점",
+              "topic": "지수 addicted",
+              "topicGroup": "네이버 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "지수(김지수)가 21일 세련된 올블랙 룩과 함께 겨울 인사를 전했다. 솔로 싱글 ‘CLICK’과 ‘ADDICTED’로 정규 1집을 준비하며 음악 방송과 글로벌 차트에서 활약 중인 근황까지 담았다.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "찰떡처럼 입는 거 대박임\", \"이러니 뮤즈로 삼지\", \"진짜 지수 는 D 브랜드 평생 해야겠다\" 등 다양한 반응을 보였다. 네티즌들은 \"D 브랜드 옷 다",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282388",
+                "press": "톱스타뉴스"
+              },
+              {
+                "url": "http://www.osen.co.kr/article/G1112913487",
+                "press": "OSEN"
+              }
+            ],
+            "images": [
+              "https://cdn.topstarnews.net/news/photo/202611/16282388_2095118_4132_crop.jpg"
+            ],
+            "press": [
+              "톱스타뉴스",
+              "OSEN"
+            ],
+            "headlines": [
+              "블랙핑크 지수, ‘ADDICTED’로 빛낸 겨울 올블랙 비주얼",
+              "블랙핑크 지수 , 리본까지 단 겨울 공주님 탄생"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "naver-6",
+          "rank": 6,
           "keyword": "수능 부정 신고 포상금",
           "title": "수능 부정 신고 포상금",
           "rawKeyword": "수능 부정 신고 포상금",
           "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
-          "priority": 92,
+          "priority": 95,
           "source": "naver",
           "expansions": [
-            "수능 포상금",
-            "수능 포상금 1억",
-            "신고 포상금",
-            "수능 부정행위",
-            "2026수능",
-            "수능 시간표",
-            "수능 날짜",
-            "2026 수능 날짜"
+            "수능 부정신고 포상금"
           ],
-          "expansionSeed": "수능",
+          "expansionSeed": "수능 부정 신고 포상금",
           "insight": {
             "titles": {
               "seo": "수능 부정 신고 포상금 최신 이슈와 핵심 내용 정리",
@@ -553,68 +326,255 @@
               "李 “ 수능 부정 행위 신고 포상금 건당 최소 1억”"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
-          "id": "naver-10",
-          "rank": 10,
-          "keyword": "이란 미 F-16 공격 주장",
-          "title": "이란 미 F-16 공격 주장",
-          "rawKeyword": "이란 미 F-16 공격 주장",
+          "id": "naver-7",
+          "rank": 7,
+          "keyword": "조희대 대법원장 탄핵",
+          "title": "조희대 대법원장 탄핵",
+          "rawKeyword": "조희대 대법원장 탄핵",
           "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
-          "priority": 91,
+          "priority": 94,
           "source": "naver",
           "expansions": [
-            "이란 미국 공격",
-            "이란 공격",
-            "미국 이란 전쟁",
-            "이란 미국",
-            "미국 이란 협상",
-            "미국 이란 종전",
-            "이란 전쟁",
-            "미국 이란"
+            "조희대 대법원장",
+            "조희대 탄핵",
+            "민주당 조희대 탄핵",
+            "대법원장 탄핵",
+            "대법원장 탄핵 요건",
+            "대법원장탄핵정족수",
+            "조희대 대법원장임기",
+            "조희대 임기"
           ],
-          "expansionSeed": "이란",
+          "expansionSeed": "조희대",
           "insight": {
             "titles": {
-              "seo": "이란 미 F-16 공격 주장 최신 이슈와 핵심 내용 정리",
-              "home": "이란 미 F-16 공격 주장, 이란 \"美 F-16 전투기 공격해 비상착륙시켜\"…미군 \"거짓 주장\"(종합) 관련 확인할 점",
-              "topic": "이란 미 F-16 공격 주장",
+              "seo": "조희대 대법원장 탄핵 최신 이슈와 핵심 내용 정리",
+              "home": "조희대 대법원장 탄핵, 한동훈의 예언…대법원장 탄핵 추진 與에 \"모두 감옥갈 것\" 관련 확인할 점",
+              "topic": "조희대 대법원장 탄핵",
               "topicGroup": "네이버 실시간 검색어"
             },
             "facts": [
               {
-                "text": "이란 혁명수비대 \"MQ-1 드론 19번째 격추\" 주장 나확진 특파원 = 이란 이 페르시아만 상공에서 미군의 F-16 전투기를 공격 해 비상착륙하게 했으며 MQ-1 드론을 격추했다고 주장 했다.",
+                "text": "한동훈 무소속 의원은 더불어민주당이 12·3 비상계엄 2주년인 오는 12월3일 조희대 대법원장 에 대한 탄핵 소추안을 발의하겠다고 한 것을 두고 \"이제 민주당은 '내란정당'\"이라고 비판했다.",
                 "sourceIndex": 0
               },
               {
-                "text": "나확진 특파원 = 이란 이 페르시아만 상공에서 미군의 F-16 전투기를 공격 해 비상착륙하게 했으며 MQ-1 드론을 격추했다고 주장 했다. 21일(현지시간) 로이터 통신에 따르면, 이란 군은 전날 저녁 걸프 상공에서 미군 F-16 전투기를 자국 방공망 미사일로 공격 했다고 이날 밝혔다.",
+                "text": "\"여당이 정치적 유불리 계산할 때 아냐…사법 파탄에 분명한 경고해야\" 추미애 경기도지사는 21일 \" 조희대 대법원장 탄핵 실행을 좌고우면하면 안 된다\"며 즉각 탄핵을 재차 주장했다. 추 지사는 이날 페이스북에 올린 글에서 \"지금은 사법 파탄 사태에서 분명한 경고를 해야 할 때다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121052651099?input=1195m",
-                "press": "연합뉴스"
+                "url": "https://www.hankyung.com/article/2026112114997",
+                "press": "한국경제"
               },
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121052600099?input=1195m",
+                "url": "https://www.yna.co.kr/view/AKR20261121045800061?input=1195m",
                 "press": "연합뉴스"
               }
             ],
             "images": [
-              "https://img5.yna.co.kr/photo/ap/2023/07/15/PAP20230715081401009_P4.jpg"
+              "https://img.hankyung.com/photo/202611/01.46502085.1.jpg"
             ],
             "press": [
+              "한국경제",
               "연합뉴스"
             ],
             "headlines": [
-              "이란 \"美 F-16 전투기 공격해 비상착륙시켜\"…미군 \"거짓 주장\"(종합)",
-              "이란 \"美 F-16 전투기 공격 …MQ-1 드론은 격추\" 주장"
+              "한동훈의 예언…대법원장 탄핵 추진 與에 \"모두 감옥갈 것\"",
+              "추미애 \" 조희대 대법원장 탄핵 실행, 좌고우면 안 돼\""
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "naver-8",
+          "rank": 8,
+          "keyword": "18세 첫 선발 1골 1도움",
+          "title": "18세 첫 선발 1골 1도움",
+          "rawKeyword": "18세 첫 선발 1골 1도움",
+          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
+          "priority": 93,
+          "source": "naver",
+          "expansions": [
+            "18세순이",
+            "만18세 국민연금",
+            "만18세",
+            "낭랑18세",
+            "18세기",
+            "루이18세",
+            "낭랑18세 뜻",
+            "만18세 나이"
+          ],
+          "expansionSeed": "18세",
+          "insight": {
+            "titles": {
+              "seo": "18세 첫 선발 1골 1도움 최신 이슈와 핵심 내용 정리",
+              "home": "18세 첫 선발 1골 1도움, \"토트넘에 이런 선수가 있었다니\"...18세 신성, PL 첫 선발부터 1골 1도움 폭발 '2-0 완승+9위 도약' 관련 확인할 점",
+              "topic": "18세 첫 선발 1골 1도움",
+              "topicGroup": "네이버 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "토트넘 홋스퍼가 18세 신예 루카 윌리엄스-바넷의 맹활약을 앞세워 입스위치 타운을 제압했다.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "생애 첫 프리미어리그 선발 출전 기회를 잡았다. 기회를 놓치지 않았다.",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "http://www.osen.co.kr/article/G1112913560",
+                "press": "OSEN"
+              },
+              {
+                "url": "https://www.xportsnews.com/article/2221858",
+                "press": "엑스포츠뉴스"
+              }
+            ],
+            "images": [
+              "http://file.osen.co.kr/article_thumb/2026/11/22/202611220132772789_6b01cd1064701_300x.jpg"
+            ],
+            "press": [
+              "OSEN",
+              "엑스포츠뉴스"
+            ],
+            "headlines": [
+              "\"토트넘에 이런 선수가 있었다니\"...18세 신성, PL 첫 선발부터 1골 1도움 폭발 '2-0 완승+9위 도약'",
+              "양민혁 절망! \"여기 양민혁 같은 선수 많다\" 손흥민 경고, 정확한 팩트였..."
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "naver-9",
+          "rank": 9,
+          "keyword": "추성훈 은퇴전 아쉬움",
+          "title": "추성훈 은퇴전 아쉬움",
+          "rawKeyword": "추성훈 은퇴전 아쉬움",
+          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
+          "priority": 92,
+          "source": "naver",
+          "expansions": [
+            "추성훈 은퇴전",
+            "추성훈 은퇴전 중계",
+            "추성훈 은퇴전 결과",
+            "추성훈 은퇴전 시간",
+            "추성훈 은퇴전 날짜",
+            "추성훈 은퇴전 방송",
+            "추성훈 은퇴전 예매",
+            "추성훈 은퇴전 몇시"
+          ],
+          "expansionSeed": "추성훈",
+          "insight": {
+            "titles": {
+              "seo": "추성훈 은퇴전 아쉬움 최신 이슈와 핵심 내용 정리",
+              "home": "추성훈 은퇴전 아쉬움, 51세 추성훈, 은퇴전 아쉬운 판정패…♥야노시호·사랑이도 지켜봤다 관련 확인할 점",
+              "topic": "추성훈 은퇴전 아쉬움",
+              "topicGroup": "네이버 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "종합격투기 선수 추성훈(51)이 크리스 리벤과 16년 만에 다시 맞붙은 은퇴전에서 아쉽게 판정패했다. 추성훈은 21일 서울 고척스카이돔에서 열린 '블랙컴뱃 17: 벤타블랙' 코메인 이벤트에서 크리스 리벤과 89kg 계약 체중으로 맞붙었다.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "이종격투기(MMA) 선수 겸 방송인 추성훈 (51)이 21일 서울 고척스카이돔에서 열린 은퇴전 에서 판정패하며 22년 현역 생활에 마침표를 찍었다. 추성훈 은 ‘블랙컴뱃 17: 반타블랙’ 코메인 이벤트(89㎏ 계약 체중)에서 크리스 리벤(46·미국)과 3라운드 접전을 벌였으나 1-2(28-29 29-28 28-29)로 패했다.",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.tenasia.co.kr/article/2026112116004",
+                "press": "텐아시아"
+              },
+              {
+                "url": "https://www.sedaily.com/article/20117284?ref=naver",
+                "press": "서울경제"
+              }
+            ],
+            "images": [
+              "https://img.tenasia.co.kr/photo/202611/BF.46502880.1.png"
+            ],
+            "press": [
+              "텐아시아",
+              "서울경제"
+            ],
+            "headlines": [
+              "51세 추성훈, 은퇴전 아쉬운 판정패…♥야노시호·사랑이도 지켜봤다",
+              "아쉬움 남긴 라스트 댄스…‘사랑이 아빠’ 추성훈 , 복수 못 이루고 22년..."
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "naver-10",
+          "rank": 10,
+          "keyword": "경제뉴스",
+          "title": "경제",
+          "rawKeyword": "경제",
+          "description": "네이버 실시간 흐름에서 수집한 검색 신호입니다.",
+          "priority": 91,
+          "source": "naver",
+          "expansions": [
+            "경제뉴스",
+            "매일경제",
+            "한국경제",
+            "한국경제신문",
+            "다인경제",
+            "서울경제",
+            "귀금속경제신문",
+            "아시아경제"
+          ],
+          "expansionSeed": "경제",
+          "insight": {
+            "titles": {
+              "seo": "경제뉴스 최신 이슈와 핵심 내용 정리",
+              "home": "경제뉴스, [오늘의 경제뉴스] AMD까지 중국 수출통제 위반 의혹…삼전·닉스에 불똥 튀나 관련 확인할 점",
+              "topic": "경제뉴스",
+              "topicGroup": "네이버 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "미국 반도체기업 AMD의 대중국 수출통제 위반 의혹이 불거지면서 국내 반도체업계에도 긴장감이 커지고 있다. 고대역폭메모리(HBM)가 이미 미국의 대중국 수출통제 대상에 포함된 데다 첨단 인공지능(AI) 칩의 제3국 거래와 해외 데이터센터를 통한 연산능력 제공까지 규제가 확대되고 있기 때문이다.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "④ [거시 경제 ] 10월 생산자물가 0.1%↓…석 달 만에 하락 한국은행에 따르면 10월 생산자물가지수는 129.66으로 전월보다",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.newsverse.kr/news/articleView.html?idxno=12002",
+                "press": "뉴스버스"
+              },
+              {
+                "url": "https://www.fntimes.com/html/view.php?ud=20261120071256267141825007d_18",
+                "press": "한국금융신문"
+              }
+            ],
+            "images": [
+              "https://cdn.newsverse.kr/news/thumbnail/202611/12002_20505_943_v150.jpg"
+            ],
+            "press": [
+              "뉴스버스",
+              "한국금융신문"
+            ],
+            "headlines": [
+              "[오늘의 경제뉴스] AMD까지 중국 수출통제 위반 의혹…삼전·닉스에 불똥 튀나",
+              "[KFT 모닝 브리프] 2026.11.20 — 오늘 꼭 알아야 할 국내외 경제뉴스"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         }
       ]
@@ -626,77 +586,141 @@
         {
           "id": "daum-1",
           "rank": 1,
-          "keyword": "코르티스 MAMA 대상 수상",
-          "title": "코르티스 MAMA 대상 수상",
-          "rawKeyword": "코르티스 MAMA 대상 수상",
+          "keyword": "소설 절기",
+          "title": "소설 절기",
+          "rawKeyword": "소설 절기",
           "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
           "priority": 100,
           "source": "daum",
           "expansions": [
-            "코르티스 주훈",
-            "코르티스 건호",
-            "코르티스 나무위키",
-            "코르티스 성현",
-            "코르티스 제임스",
-            "코르티스 마틴",
-            "코르티스 redred",
-            "코르티스 엄성현"
+            "소설 절기 뜻",
+            "소설 절기 날짜",
+            "소설 절기 음식",
+            "소설 절기 인사말",
+            "소설 절기 속담",
+            "소설 절기 한자",
+            "소설 절기 인사",
+            "소설절기뜻은"
           ],
-          "expansionSeed": "코르티스",
+          "expansionSeed": "소설 절기",
           "insight": {
             "titles": {
-              "seo": "코르티스 MAMA 대상 수상 최신 이슈와 핵심 내용 정리",
-              "home": "코르티스 MAMA 대상 수상, BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선 관련 확인할 점",
-              "topic": "코르티스 MAMA 대상 수상",
+              "seo": "소설 절기 최신 이슈와 핵심 내용 정리",
+              "home": "소설 절기, 첫눈 내린다는 '소설'…전국 대체로 맑지만, 아침 영하권 추위[오늘날씨] 관련 확인할 점",
+              "topic": "소설 절기",
               "topicGroup": "다음 실시간 검색어"
             },
             "facts": [
               {
-                "text": "(BTS)과 코르티스 가 대중음악 시상식 '2026 마마 어워즈'(2026 MAMA AWARDS) 둘째 날 대상 을 받았다.",
+                "text": "첫눈이 내리기 시작한다는 절기 ' 소설 '이자 일요일인 22일은 전국이 대체로 맑겠으나 아침 최저기온이 영하 9도까지 떨어지며 추운 날씨가 이어지겠다. 기상청은 \"이날까지 기온은 평년보다",
                 "sourceIndex": 0
               },
               {
-                "text": "그룹 코르티스 와 방탄소년단이 '2026 MAMA ' 챕터2 대상 을 나란히 차지했다. 이외에도 코르티스 는 베스트 송 톱10, 베스트 댄스 퍼포먼스 남자 그룹상을 수상 해 총 3관왕에 올랐다.",
+                "text": "첫눈이 온다는 절기 상 ' 소설 '(小雪)이자 일요일인 22일 서울·인천·경기 등 수도권을 비롯한 전국이 대체로 맑겠다. 다만 충남 서해안과 전라 서해안, 제주도는 구름이 많겠다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121047200005?input=1195m",
-                "press": "연합뉴스"
+                "url": "https://www.newsis.com/view/NISX20261121_0003877788",
+                "press": "뉴시스"
               },
               {
-                "url": "https://news.jtbc.co.kr/article/NB12329217?influxDiv=NAVER",
-                "press": "JTBC"
+                "url": "https://www.yna.co.kr/view/AKR20261122002100034?input=1195m",
+                "press": "연합뉴스"
               }
             ],
             "images": [
-              "https://img0.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121047200005_01_i_P4.jpg"
+              "https://img1.newsis.com/2026/11/20/NISI20261120_0021539856_web.jpg"
             ],
             "press": [
-              "연합뉴스",
-              "JTBC"
+              "뉴시스",
+              "연합뉴스"
             ],
             "headlines": [
-              "BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선",
-              "코르티스 ·방탄소년단 '2026 MAMA ' 챕터2 대상 [종합]"
+              "첫눈 내린다는 '소설'…전국 대체로 맑지만, 아침 영하권 추위[오늘날씨]",
+              "첫눈 온다는 ' 소설 ' 전국 대체로 맑아…전남·제주 비 또는 눈"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "daum-2",
           "rank": 2,
-          "keyword": "1251회 로또 당첨 번호",
-          "title": "1251회 로또 당첨 번호",
-          "rawKeyword": "1251회 로또 당첨 번호",
+          "keyword": "코르티스 대상 수상",
+          "title": "코르티스 대상 수상",
+          "rawKeyword": "코르티스 대상 수상",
           "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
           "priority": 99,
           "source": "daum",
           "expansions": [
+            "코르티스 나무위키",
+            "코르티스 건호",
+            "코르티스 주훈",
+            "코르티스 성현",
+            "코르티스 제임스",
+            "코르티스 redred",
+            "코르티스 마틴",
+            "코르티스 엄성현"
+          ],
+          "expansionSeed": "코르티스",
+          "insight": {
+            "titles": {
+              "seo": "코르티스 대상 수상 최신 이슈와 핵심 내용 정리",
+              "home": "코르티스 대상 수상, 403 Forbidden 관련 확인할 점",
+              "topic": "코르티스 대상 수상",
+              "topicGroup": "다음 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "BTS와 코르티스 는 21일 일본 오사카 교세라돔에서 열린 ‘2026 마마 어워즈’ 2일 차 시상식에서 대상 격인 ‘올해의 앨범 위드 비자’와 ‘올해의 노래 위드 비자’를 각각 수상 했다.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "지난해 8월 데뷔한 이후 약 1년 3개월 만의 대상 수상 이다. 코르티스 는 '베스트 댄스 퍼포먼스 남자 그룹', '팬스 초이스 남자 톱 10', '베스트 송 톱 10'을 포함해 총 4관왕을 달성했다.",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.khan.co.kr/article/202611212100001",
+                "press": "경향신문"
+              },
+              {
+                "url": "https://www.newsis.com/view/NISX20261121_0003877814",
+                "press": "뉴시스"
+              }
+            ],
+            "images": [
+              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F032%2F2026%2F11%2F21%2F3484140.jpg&type=fface200_200&expire=2&refresh=true"
+            ],
+            "press": [
+              "경향신문",
+              "뉴시스"
+            ],
+            "headlines": [
+              "403 Forbidden",
+              "방탄소년단· 코르티스 , '2026 마마 어워즈' 대상 …하이브 4개 대상 석권"
+            ],
+            "extraction": "search-card",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "daum-3",
+          "rank": 3,
+          "keyword": "1251회 로또 당첨 번호",
+          "title": "1251회 로또 당첨 번호",
+          "rawKeyword": "1251회 로또 당첨 번호",
+          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
+          "priority": 98,
+          "source": "daum",
+          "expansions": [
             "1251회 로또당첨번호",
-            "1251회 로또당첨번호 조회방법"
+            "1251회 로또당첨번호 조회방법",
+            "1251회로또당첨번호는",
+            "1251회 로또당첨번호 조회"
           ],
           "expansionSeed": "1251회 로또 당첨 번호",
           "insight": {
@@ -712,7 +736,7 @@
                 "sourceIndex": 0
               },
               {
-                "text": "21일 제 1251회 동행복권 로또 추첨 결과 14, 18, 19, 29, 40, 45이 1등 당첨 번호 로 결정됐다. 6개 번호 를 모두 맞춘 1등 당첨 자는 14명이다.",
+                "text": "로또 1251회 당첨번호 4개를 맞힌 4등은 14만6963게임으로 고정 당첨 금 5만원을 받게 된다. 고정 당첨 금 5000원을 받는 로또 1251회 당첨번호 3개가 일치한 5등은 250만5977게임이다.",
                 "sourceIndex": 1
               }
             ],
@@ -722,8 +746,8 @@
                 "press": "이데일리"
               },
               {
-                "url": "https://www.newsis.com/view/NISX20261121_0003877831",
-                "press": "뉴시스"
+                "url": "https://news.tf.co.kr/read/economy/2391809.htm",
+                "press": "더팩트"
               }
             ],
             "images": [
@@ -731,334 +755,24 @@
             ],
             "press": [
               "이데일리",
-              "뉴시스"
+              "더팩트"
             ],
             "headlines": [
               "[속보]로또 1251회 당첨번호 '14·18·19·29·40·45'…보너스 '1'",
-              "1251회 로또 1등 각 20억씩… 당첨 자 14명 모두 자동(종합)"
+              "로또 1251회 당첨번호 조회···'1등 몽땅 자동 14명'"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "daum-3",
-          "rank": 3,
-          "keyword": "추성훈 은퇴전 패배",
-          "title": "추성훈 은퇴전 패배",
-          "rawKeyword": "추성훈 은퇴전 패배",
-          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
-          "priority": 98,
-          "source": "daum",
-          "expansions": [
-            "추성훈 은퇴전",
-            "추성훈 은퇴전 중계",
-            "추성훈 은퇴전 시간",
-            "추성훈 은퇴전 날짜",
-            "추성훈 은퇴전 예매",
-            "추성훈 은퇴전 상대",
-            "추성훈 은퇴전 티켓",
-            "추성훈 은퇴전 방송"
-          ],
-          "expansionSeed": "추성훈",
-          "insight": {
-            "titles": {
-              "seo": "추성훈 은퇴전 패배 최신 이슈와 핵심 내용 정리",
-              "home": "추성훈 은퇴전 패배, 추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표 관련 확인할 점",
-              "topic": "추성훈 은퇴전 패배",
-              "topicGroup": "다음 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "22년간 활약한 격투기 선수 추성훈이 크리스 리벤과의 공식 은퇴전에서 판정패하며 현역 생활을 마쳤다. 경기 후 추성훈은 팬들에게 작별 인사를 건네며, 파이트머니 전액을 후배 선수들에게 기부하겠다는 계획을 밝혀 화제가 되었다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "아울러 이번 대회는 티켓 2만 1000장이 55분 만에 동나는 등 높은 관심을 받았는데, 추성훈 은 여느 때보다 화려한 무대에서 은퇴전 을 장식했다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.chosun.com/national/national_general/2026/11/21/BGYURZ6B3VESHKOM7WVOLNJ4XE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-                "press": "조선일보"
-              },
-              {
-                "url": "https://isplus.com/article/view/isp202611210048",
-                "press": "일간스포츠"
-              }
-            ],
-            "images": [
-              "https://www.chosun.com/resizer/v2/AWWVSGBRWJE45LWJUESKYLBJEQ.jpg?auth=4d7f985c44e90e7bec86c7ef419c697080847eef316d152a5a2bc8e0006532a7&width=1200&height=630&focal=1998,1006"
-            ],
-            "press": [
-              "조선일보",
-              "일간스포츠"
-            ],
-            "headlines": [
-              "추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표",
-              "[IS 고척] ‘굿바이’ 추성훈 , 은퇴전 서 리벤에 패배 …22년 격투기 인생..."
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "daum-4",
           "rank": 4,
-          "keyword": "손정의 SK하이닉스",
-          "title": "손정의 SK하이닉스",
-          "rawKeyword": "손정의 SK하이닉스",
-          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
-          "priority": 97,
-          "source": "daum",
-          "expansions": [
-            "손정의",
-            "SK하이닉스 주가",
-            "손정보쌈",
-            "손정범",
-            "손정은",
-            "손정완",
-            "손정우",
-            "손정원"
-          ],
-          "expansionSeed": "손정",
-          "insight": {
-            "titles": {
-              "seo": "손정의 SK하이닉스 최신 이슈와 핵심 내용 정리",
-              "home": "손정의 SK하이닉스, \"소프트뱅크 손정의, 한때 SK하이닉스 1조달러 인수안 검토\" 관련 확인할 점",
-              "topic": "손정의 SK하이닉스",
-              "topicGroup": "다음 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "美 매체 보도…소프트뱅크 측 \"더 이상 고려 안 해\" 손정의 소프트뱅크그룹 회장이 SK하이닉스 를 인수하기 위해 최근 월가 금융기관들에 자금 조달 방안을 문의했다는 보도가 나왔다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "손정의 소프트뱅크그룹 회장이 SK하이닉스 인수를 추진했다는 외신 보도가 나왔다. 로이터 통신은 20일(현지시간) 미국의 한 디지털 경제·기술 전문 매체를 인용해 손 회장이 SK하이닉스 를 1조달러(약 1천346조원)에 인수하려고 월가 금융기관들과 자금 조달 방안을 논의했다고 보도했다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.yna.co.kr/view/AKR20261121033000009?input=1195m",
-                "press": "연합뉴스"
-              },
-              {
-                "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/21/2026112190057.html",
-                "press": "TV조선"
-              }
-            ],
-            "images": [
-              "https://img4.yna.co.kr/photo/etc/epa/2026/07/14/PEP20260714096501009_P4.jpg"
-            ],
-            "press": [
-              "연합뉴스",
-              "TV조선"
-            ],
-            "headlines": [
-              "\"소프트뱅크 손정의, 한때 SK하이닉스 1조달러 인수안 검토\"",
-              "\" 손정의 , SK하이닉스 1조 달러(1천346조원)에 인수 추진\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "daum-5",
-          "rank": 5,
-          "keyword": "아이오아이 재결합",
-          "title": "아이오아이 재결합",
-          "rawKeyword": "아이오아이 재결합",
-          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
-          "priority": 96,
-          "source": "daum",
-          "expansions": [
-            "아이오아이",
-            "아이오아이 멤버",
-            "아이오아이 갑자기",
-            "아이오아이 나무위키",
-            "강미나 아이오아이",
-            "아이오아이 정채연",
-            "아이오아이 유연정",
-            "아이오아이 김도연"
-          ],
-          "expansionSeed": "아이오아",
-          "insight": {
-            "titles": {
-              "seo": "아이오아이 재결합 최신 이슈와 핵심 내용 정리",
-              "home": "아이오아이 재결합, 아이오아이 감동의 재결합 그 후&hellip;전소미, 의상 억까에 발끈 \"튀고 싶지 않아\" [MD이슈] 관련 확인할 점",
-              "topic": "아이오아이 재결합",
-              "topicGroup": "다음 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "데뷔 10주년을 맞아 9년 만에 성사된 그룹 아이오아이 (I.O.I)의 감동적인 재결합 무대 직후 불거진 이른바 '홀로 블랙 의상' 논란에 대해 가수 전소미가 직접 해명에 나섰다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "이날 아이오아이 는 ‘갑자기’로 ‘베스트송 톱10’을 수상했다. 해당 곡은 지난 2016년 프로젝트성 그룹으로 데뷔 및 해체를 겪은 뒤 올해 재결합 과 동시에 발표한 곡이다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.mydaily.co.kr/page/view/2026112108351978682",
-                "press": "마이데일리"
-              },
-              {
-                "url": "https://www.mk.co.kr/article/12215284",
-                "press": "매일경제"
-              }
-            ],
-            "images": [
-              "https://img.mydaily.co.kr/photos/2026/11/21/2026112108425457355_x.png"
-            ],
-            "press": [
-              "마이데일리",
-              "매일경제"
-            ],
-            "headlines": [
-              "아이오아이 감동의 재결합 그 후&hellip;전소미, 의상 억까에 발끈 \"튀고 싶지 않아\" [MD이슈]",
-              "재결합 의 힘… 아이오아이 , 10년 만에 돌아온 ‘마마’서 본상 수상 [2026..."
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "daum-6",
-          "rank": 6,
-          "keyword": "굿파트너 2",
-          "title": "굿파트너 2",
-          "rawKeyword": "굿파트너 2",
-          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
-          "priority": 95,
-          "source": "daum",
-          "expansions": [
-            "드라마 굿파트너 2",
-            "굿파트너 2화 줄거리",
-            "굿파트너 2회 줄거리",
-            "굿파트너2 ott",
-            "굿파트너2 등장인물",
-            "굿파트너2 남지현",
-            "굿파트너2 나무위키",
-            "굿파트너2 넷플릭스"
-          ],
-          "expansionSeed": "굿파트너 2",
-          "insight": {
-            "titles": {
-              "seo": "굿파트너 2 최신 이슈와 핵심 내용 정리",
-              "home": "굿파트너 2, 장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다 관련 확인할 점",
-              "topic": "굿파트너 2",
-              "topicGroup": "다음 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "장나라가 이끄는 '굿파트너2'가 시즌1보다",
-                "sourceIndex": 0
-              },
-              {
-                "text": "배우 표지훈(왼쪽부터), 김혜윤, 서민정 감독, 장나라, 박해진이 20일 서울 양천구 목동 SBS에서 열린 SBS 새 금토드라마 ' 굿파트너2 ' 제작발표회에 참석해 포토타임을 갖고 있다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.news1.kr/entertain/broadcast-tv/6361528",
-                "press": "뉴스1"
-              },
-              {
-                "url": "https://isplus.com/article/view/isp202611200107",
-                "press": "일간스포츠"
-              }
-            ],
-            "images": [
-              "https://i3n.news1.kr/system/photos/2026/11/21/8226035/high.jpg"
-            ],
-            "press": [
-              "뉴스1",
-              "일간스포츠"
-            ],
-            "headlines": [
-              "장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다",
-              "[포토] ' 굿파트너2 ' 화이팅"
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "daum-7",
-          "rank": 7,
-          "keyword": "채령 자매",
-          "title": "채령 자매",
-          "rawKeyword": "채령 자매",
-          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
-          "priority": 94,
-          "source": "daum",
-          "expansions": [
-            "채령 채연",
-            "잇지 채령",
-            "채령 나무위키",
-            "채령 lovesick",
-            "채령 사복",
-            "채령 엔하이픈",
-            "채령 섬유유연제",
-            "채령 세제"
-          ],
-          "expansionSeed": "채령",
-          "insight": {
-            "titles": {
-              "seo": "채령 자매 최신 이슈와 핵심 내용 정리",
-              "home": "채령 자매, Attention Required! 관련 확인할 점",
-              "topic": "채령 자매",
-              "topicGroup": "다음 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "전지적참견시점(전참시)_ 채령 _채채 자매 +퇴근요정그룹 있지(ITZY) 채령 이 데뷔 7년 만에 첫 솔로 활동에 나선 가운데, 친언니 이채연과 함께하는 일상을 공개한다. 두 사람은 연습생 시절의 추억부터 투병 중인 어머니를 향한 애틋한 마음까지 털어놓을 예정이다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "어머니는 영상 통화를 하며 채령 , 채연 자매 를 자주 보고 싶다며 그리움을 드러냈다. 언니와 함께 어머니의 곁을 지키고 싶었지만 채령 은 투어와 팬미팅을 하며 바쁜 시간을 보낼 수밖에 없었던 것을 이유로 미안한 마음을 드러냈다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.bntnews.co.kr/article/view/bnt202611210063",
-                "press": "bnt뉴스"
-              },
-              {
-                "url": "http://www.osen.co.kr/article/G1112913540",
-                "press": "OSEN"
-              }
-            ],
-            "images": [
-              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5191%2F2026%2F11%2F21%2F536003.jpg&type=fface200_200&expire=2&refresh=true"
-            ],
-            "press": [
-              "bnt뉴스",
-              "OSEN"
-            ],
-            "headlines": [
-              "Attention Required!",
-              "채령 , 母 희귀암 투병 고백 “폐에서 육종암 발견..너무 바빠 연락도 못..."
-            ],
-            "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "daum-8",
-          "rank": 8,
           "keyword": "경비지도사",
           "title": "경비지도사",
           "rawKeyword": "경비지도사",
           "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
-          "priority": 93,
+          "priority": 97,
           "source": "daum",
           "expansions": [
             "경비지도사책",
@@ -1109,131 +823,311 @@
               "노동장관, 경비지도사 자격시험장 방문…휴대폰 무작위 전화 점검"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "daum-5",
+          "rank": 5,
+          "keyword": "트리플스타 강승원",
+          "title": "트리플스타 강승원",
+          "rawKeyword": "트리플스타 강승원",
+          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
+          "priority": 96,
+          "source": "daum",
+          "expansions": [
+            "강승원 셰프",
+            "강승원헤어",
+            "흑백요리사 강승원",
+            "트리플스타 논란",
+            "트리플스타 식당",
+            "흑백요리사 트리플스타",
+            "트리플스타 나무위키",
+            "트리플스타 칼"
+          ],
+          "expansionSeed": "강승원",
+          "insight": {
+            "titles": {
+              "seo": "트리플스타 강승원 최신 이슈와 핵심 내용 정리",
+              "home": "트리플스타 강승원, '흑백' 트리플스타 강승원, 재혼한다…\"♥예비신부, 안식처 되어준 고마운 사람\" [전문] 관련 확인할 점",
+              "topic": "트리플스타 강승원",
+              "topicGroup": "다음 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "한편 강승원 은 2024년 넷플릭스 예능 '흑백요리사: 요리 계급 전쟁' 시즌1에 출연해 ' 트리플스타 '로 많은 사랑을 받 았다. 이하 강승원 글 SNS 전문.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "'흑백요리사' 트리플스타 (본명 강승원 )가 횡령 누명을 벗었다. 19일 강승원 은 자신의 인 스타 그램에 \"안녕하세요.",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.xportsnews.com/article/2221862",
+                "press": "엑스포츠뉴스"
+              },
+              {
+                "url": "https://www.topstarnews.net/news/articleView.html?idxno=15843657",
+                "press": "톱스타뉴스"
+              }
+            ],
+            "images": [
+              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F311%2F2026%2F11%2F22%2F2082881.jpg&type=fface200_200&expire=2&refresh=true"
+            ],
+            "press": [
+              "엑스포츠뉴스",
+              "톱스타뉴스"
+            ],
+            "headlines": [
+              "'흑백' 트리플스타 강승원, 재혼한다…\"♥예비신부, 안식처 되어준 고마운 사람\" [전문]",
+              "'흑백요리사' 트리플스타 강승원 , 사생활 논란 이후 근황? \"횡령 무혐의..."
+            ],
+            "extraction": "search-card",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "daum-6",
+          "rank": 6,
+          "keyword": "굿파트너 2",
+          "title": "굿파트너 2",
+          "rawKeyword": "굿파트너 2",
+          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
+          "priority": 95,
+          "source": "daum",
+          "expansions": [
+            "굿파트너 2화 줄거리",
+            "드라마 굿파트너 2",
+            "굿파트너 2회 줄거리",
+            "굿파트너 2 1회 줄거리",
+            "굿파트너 2 시간",
+            "굿파트너2 ott",
+            "굿파트너2 등장인물",
+            "굿파트너2 남지현"
+          ],
+          "expansionSeed": "굿파트너 2",
+          "insight": {
+            "titles": {
+              "seo": "굿파트너 2 최신 이슈와 핵심 내용 정리",
+              "home": "굿파트너 2, 장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다 관련 확인할 점",
+              "topic": "굿파트너 2",
+              "topicGroup": "다음 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다2026.11.21 오전 10:38구글에서 뉴스1 즐겨찾기AI 요약 정보SBS '굿파트너2', 첫 방송 8.4%시즌1 첫 방송 7.8%보다 높아장나라·김혜윤, 이혼 변호사로 호흡구글에서 뉴스1 즐겨찾기SBS '굿파트너2'관련 키워드굿파트너장나라'케빈오♥' 공효진은 이탈리아 여행 중…여유로운 미소 [N샷]이지훈♥아야네, 둘째 출산 D-3…\"곧 유도분만, 첫째 때처럼 준비 못해\"주요",
+                "sourceIndex": 0
+              },
+              {
+                "text": "배우 표지훈(왼쪽부터), 김혜윤, 서민정 감독, 장나라, 박해진이 20일 서울 양천구 목동 SBS에서 열린 SBS 새 금토드라마 ' 굿파트너2 ' 제작발표회에 참석해 포토타임을 갖고 있다.",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.news1.kr/entertain/broadcast-tv/6361528",
+                "press": "뉴스1"
+              },
+              {
+                "url": "https://isplus.com/article/view/isp202611200107",
+                "press": "일간스포츠"
+              }
+            ],
+            "images": [
+              "https://i3n.news1.kr/system/photos/2026/11/21/8226035/high.jpg"
+            ],
+            "press": [
+              "뉴스1",
+              "일간스포츠"
+            ],
+            "headlines": [
+              "장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다",
+              "[포토] ' 굿파트너2 ' 화이팅"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "daum-7",
+          "rank": 7,
+          "keyword": "cme 그룹 투어 챔피언십 순위",
+          "title": "cme 그룹 투어 챔피언십 순위",
+          "rawKeyword": "cme 그룹 투어 챔피언십 순위",
+          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
+          "priority": 94,
+          "source": "daum",
+          "expansions": [
+            "CME 그룹 투어 챔피언십 순위별 상금",
+            "CME 그룹 투어 챔피언십 순위"
+          ],
+          "expansionSeed": "cme 그룹 투어 챔피언십 순위",
+          "insight": {
+            "titles": {
+              "seo": "cme 그룹 투어 챔피언십 순위 최신 이슈와 핵심 내용 정리",
+              "home": "cme 그룹 투어 챔피언십 순위, [LPGA] '홀인원' 김아림, CME그룹 투어챔피언십 3타 차 단독 선두 - 폴리뉴스 Polinews 관련 확인할 점",
+              "topic": "cme 그룹 투어 챔피언십 순위",
+              "topicGroup": "다음 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "윤이나는 1라운드 68타에 이어 이날 7언더파 65타를 몰아치며 순위 를 끌어올렸다.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "CME 포인트 랭킹 15위로 이번 대회에 출전했으며, 시즌 상금 순위 는 21위(136만2,700달러)다.",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748922",
+                "press": "폴리뉴스"
+              },
+              {
+                "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20022690",
+                "press": "골프한국"
+              }
+            ],
+            "images": [
+              "https://cdn.polinews.co.kr/news/photo/202611/748922_573928_4459.jpg"
+            ],
+            "press": [
+              "폴리뉴스",
+              "골프한국"
+            ],
+            "headlines": [
+              "[LPGA] '홀인원' 김아림, CME그룹 투어챔피언십 3타 차 단독 선두 - 폴리뉴스 Polinews",
+              "인공지능(AI) 활용하는 김아림, CME그룹 투어챔피언십 1R 선두 [LPGA]"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "daum-8",
+          "rank": 8,
+          "keyword": "김아림 시즌 최종전 선두",
+          "title": "김아림 시즌 최종전 선두",
+          "rawKeyword": "김아림 시즌 최종전 선두",
+          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
+          "priority": 93,
+          "source": "daum",
+          "expansions": [
+            "김아림 프로",
+            "김아림 홀인원",
+            "김아림 배우",
+            "김아림프로 골프화",
+            "시간의 비 최종전쟁",
+            "dp월드투어 최종전",
+            "최종전자수용체",
+            "최종전입일"
+          ],
+          "expansionSeed": "김아림",
+          "insight": {
+            "titles": {
+              "seo": "김아림 시즌 최종전 선두 최신 이슈와 핵심 내용 정리",
+              "home": "김아림 시즌 최종전 선두, KBS 뉴스 관련 확인할 점",
+              "topic": "김아림 시즌 최종전 선두",
+              "topicGroup": "다음 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "요청하신 페이지를 찾을 수 없습니다.",
+                "sourceIndex": 0
+              },
+              {
+                "text": "김아림 이 홀인원까지 터뜨리며 미국여자프로골프(LPGA) 투어 시즌 최종전 에서 선두 를 지켰다. 2라운드에서만 8타를 줄이며 2위와 격차를 3타로 벌렸다.",
+                "sourceIndex": 1
+              }
+            ],
+            "links": [
+              {
+                "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719128&ref=A",
+                "press": "KBS"
+              },
+              {
+                "url": "https://isplus.com/article/view/isp202611210007",
+                "press": "일간스포츠"
+              }
+            ],
+            "images": [
+              "https://news.kbs.co.kr/resource/image/common/img_meta.png"
+            ],
+            "press": [
+              "KBS",
+              "일간스포츠"
+            ],
+            "headlines": [
+              "KBS 뉴스",
+              "‘홀인원’ 앞세운 김아림 , LPGA 투어 시즌 최종전 2R 선두"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "daum-9",
           "rank": 9,
-          "keyword": "리센느 원이 무명",
-          "title": "리센느 원이 무명",
-          "rawKeyword": "리센느 원이 무명",
+          "keyword": "추성훈 은퇴전 패배",
+          "title": "추성훈 은퇴전 패배",
+          "rawKeyword": "추성훈 은퇴전 패배",
           "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
           "priority": 92,
           "source": "daum",
           "expansions": [
-            "리센느 원이",
-            "리센느 나무위키",
-            "리센느 빵",
-            "리센느 제나",
-            "리센느 리브",
-            "리센느 앨범",
-            "리센느 메이",
-            "리센느 미나미"
+            "추성훈 은퇴전",
+            "추성훈 은퇴전 중계",
+            "추성훈 은퇴전 결과",
+            "추성훈 은퇴전 시간",
+            "추성훈 은퇴전 날짜",
+            "추성훈 은퇴전 방송",
+            "추성훈 은퇴전 예매",
+            "추성훈 은퇴전 몇시"
           ],
-          "expansionSeed": "리센느",
+          "expansionSeed": "추성훈",
           "insight": {
             "titles": {
-              "seo": "리센느 원이 무명 최신 이슈와 핵심 내용 정리",
-              "home": "리센느 원이 무명, Attention Required! 관련 확인할 점",
-              "topic": "리센느 원이 무명",
+              "seo": "추성훈 은퇴전 패배 최신 이슈와 핵심 내용 정리",
+              "home": "추성훈 은퇴전 패배, 추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표 관련 확인할 점",
+              "topic": "추성훈 은퇴전 패배",
               "topicGroup": "다음 실시간 검색어"
             },
             "facts": [
               {
-                "text": "예능 '전지적 참견 시점' (제공= MBC)MBC '전지적 참견 시점'에서 유영우와 리센느 의 원이 그리고 이선민이 무명 의 설움을 딛고 한무대에 오르는 감격적인 거제 콘서트 현장이 공개된다.",
+                "text": "22년간 활약한 격투기 선수 추성훈이 크리스 리벤과의 공식 은퇴전에서 판정패하며 현역 생활을 마쳤다. 경기 후 추성훈은 팬들에게 작별 인사를 건네며, 파이트머니 전액을 후배 선수들에게 기부하겠다는 계획을 밝혀 화제가 되었다.",
                 "sourceIndex": 0
               },
               {
-                "text": "'전지적 참견 시점'에서 유영우와 리센느 원이 , 이선민이 함께 무대에 오르는 거제 콘서트 현장을 공개한다. 이선민이 원이 의 아버지와 '맞담 동무'가 된 특별한 인연도 방송을 통해 소개된다.",
+                "text": "아울러 이번 대회는 티켓 2만 1000장이 55분 만에 동나는 등 높은 관심을 받았는데, 추성훈 은 여느 때보다 화려한 무대에서 은퇴전 을 장식했다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.bntnews.co.kr/article/view/bnt202611210137",
-                "press": "bnt뉴스"
+                "url": "https://www.chosun.com/national/national_general/2026/11/21/BGYURZ6B3VESHKOM7WVOLNJ4XE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+                "press": "조선일보"
               },
               {
-                "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885788",
-                "press": "한스경제"
+                "url": "https://isplus.com/article/view/isp202611210048",
+                "press": "일간스포츠"
               }
             ],
             "images": [
-              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5191%2F2026%2F11%2F21%2F536082.jpg&type=fface200_200&expire=2&refresh=true"
+              "https://www.chosun.com/resizer/v2/AWWVSGBRWJE45LWJUESKYLBJEQ.jpg?auth=4d7f985c44e90e7bec86c7ef419c697080847eef316d152a5a2bc8e0006532a7&width=1200&height=630&focal=1998,1006"
             ],
             "press": [
-              "bnt뉴스",
-              "한스경제"
+              "조선일보",
+              "일간스포츠"
             ],
             "headlines": [
-              "Attention Required!",
-              "'전참시' 리센느 원이 , 무명 설움 날렸다…거제 콘서트 현장 공개"
-            ],
-            "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "daum-10",
-          "rank": 10,
-          "keyword": "존박 파트너 쟁탈전",
-          "title": "존박 파트너 쟁탈전",
-          "rawKeyword": "존박 파트너 쟁탈전",
-          "description": "다음 실시간 트렌드에서 수집한 검색 신호입니다.",
-          "priority": 91,
-          "source": "daum",
-          "expansions": [
-            "존박 맥도날드",
-            "존박 와이프",
-            "존박 나무위키",
-            "존박 아기",
-            "존박세트",
-            "존박 랩",
-            "존박 결혼식",
-            "존박 랩 가사"
-          ],
-          "expansionSeed": "존박",
-          "insight": {
-            "titles": {
-              "seo": "존박 파트너 쟁탈전 최신 이슈와 핵심 내용 정리",
-              "home": "존박 파트너 쟁탈전, 맥도날드랩 대세 존박 쟁탈전 \"네가 파트너 둘 골라라\" 관련 확인할 점",
-              "topic": "존박 파트너 쟁탈전",
-              "topicGroup": "다음 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "가수 존박 쟁탈전이 '놀면 뭐하니?' 서울가요제에서 벌어진다. MBC TV 예능프로그램 '놀면 뭐하니?'는 21일 방송에서 '95서울가요제 선곡 회의 모습을 내보낸다.",
-                "sourceIndex": 0
-              },
-              {
-                "text": "MBC 예능 ‘놀면 뭐하니?’에서 가수 존박 을 향한 파트너 쟁탈전 이 펼쳐진다. 21일 오후 6시 30분 방송에서 존박 은 ’95 서울가요제 선곡 회의 도중 권정열·로이킴·김민석·정은지의 러브콜을 한꺼번에 받는다.",
-                "sourceIndex": 1
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.newsis.com/view/NISX20261121_0003877715",
-                "press": "뉴시스"
-              },
-              {
-                "url": "https://www.wikitree.co.kr/articles/1176528",
-                "press": "위키트리"
-              }
-            ],
-            "images": [
-              "https://img1.newsis.com/2026/11/21/NISI20261121_0002298649_web.jpg"
-            ],
-            "press": [
-              "뉴시스",
-              "위키트리"
-            ],
-            "headlines": [
-              "맥도날드랩 대세 존박 쟁탈전 \"네가 파트너 둘 골라라\"",
-              "맥도날드 랩 화제 이어 존박 쟁탈전 …’95 서울가요제 선곡 회의 한국 ..."
+              "추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표",
+              "[IS 고척] ‘굿바이’ 추성훈 , 은퇴전 서 리벤에 패배 …22년 격투기 인생..."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         }
       ]
@@ -1245,311 +1139,311 @@
         {
           "id": "nate-1",
           "rank": 1,
-          "keyword": "22일 첫차부터 운행",
-          "title": "22일 첫차부터 운행",
-          "rawKeyword": "22일 첫차부터 운행",
+          "keyword": "굿파트너 2",
+          "title": "굿파트너 2",
+          "rawKeyword": "굿파트너 2",
           "description": "네이트 실시간 이슈 키워드에서 수집한 검색 신호입니다.",
           "priority": 100,
           "source": "nate",
           "expansions": [
-            "11월 22일 날씨",
-            "11월 22일",
-            "음력 11월 22일",
-            "음력 10월22일",
-            "12월22일",
-            "11월 22일 마라톤",
-            "3월 22일",
-            "11월 22일 축제"
+            "굿파트너 2화 줄거리",
+            "드라마 굿파트너 2",
+            "굿파트너 2회 줄거리",
+            "굿파트너 2 1회 줄거리",
+            "굿파트너 2 시간",
+            "굿파트너2 ott",
+            "굿파트너2 등장인물",
+            "굿파트너2 남지현"
           ],
-          "expansionSeed": "22일",
+          "expansionSeed": "굿파트너 2",
           "insight": {
             "titles": {
-              "seo": "22일 첫차부터 운행 최신 이슈와 핵심 내용 정리",
-              "home": "22일 첫차부터 운행, '소정리역 열차탈선' 복구 완료…22일 첫차 운행재개 관련 확인할 점",
-              "topic": "22일 첫차부터 운행",
+              "seo": "굿파트너 2 최신 이슈와 핵심 내용 정리",
+              "home": "굿파트너 2, 장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다 관련 확인할 점",
+              "topic": "굿파트너 2",
               "topicGroup": "네이트 실시간 검색어"
             },
             "facts": [
               {
-                "text": "코레일이 21일 오전 경부선 소정리역에서 발생한 화물열차 궤도이탈 사고 복구작업을 완료하고 천안~대전 구간을 포함해 모든 열차의 운행을 22일 첫차부터 재개한다고 밝혔다.",
+                "text": "장나라가 이끄는 '굿파트너2'가 시즌1보다",
                 "sourceIndex": 0
               },
               {
-                "text": "한국철도공사(코레일)는 기중기 등 장비와 인력 180명을 투입해 밤샘 복구 작업을 한 뒤 내일( 22일 ) 첫 열차부터 모든 열차의 운행 을 재개할 방침이다. 코레일 등에 따르면 이날 오전 5시 37분께 세종시 소정면 경부선 소정리역으로 진입하던 제3810 화물열차가 자동 비상제동 체결 후 궤도를 이탈했다.",
+                "text": "배우 표지훈(왼쪽부터), 김혜윤, 서민정 감독, 장나라, 박해진이 20일 서울 양천구 목동 SBS에서 열린 SBS 새 금토드라마 ' 굿파트너2 ' 제작발표회에 참석해 포토타임을 갖고 있다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.newsis.com/view/NISX20261121_0003877812",
-                "press": "뉴시스"
+                "url": "https://www.news1.kr/entertain/broadcast-tv/6361528",
+                "press": "뉴스1"
               },
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121012753061?input=1195m",
-                "press": "연합뉴스"
+                "url": "https://isplus.com/article/view/isp202611200107",
+                "press": "일간스포츠"
               }
             ],
             "images": [
-              "https://img1.newsis.com/2026/11/21/NISI20261121_0002298651_web.jpg"
+              "https://i3n.news1.kr/system/photos/2026/11/21/8226035/high.jpg"
             ],
             "press": [
-              "뉴시스",
-              "연합뉴스"
+              "뉴스1",
+              "일간스포츠"
             ],
             "headlines": [
-              "'소정리역 열차탈선' 복구 완료…22일 첫차 운행재개",
-              "경부선 화물열차 탈선 '일반열차 운행 중지'…내일 첫차부터 재개(종합2..."
+              "장나라 표 이혼쇼 '굿파트너2' 8.4% 출발…시즌1보다 높다",
+              "[포토] ' 굿파트너2 ' 화이팅"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "nate-2",
           "rank": 2,
-          "keyword": "BTS 코르티스 대상",
-          "title": "BTS 코르티스 대상",
-          "rawKeyword": "BTS 코르티스 대상",
+          "keyword": "100일의 거짓말",
+          "title": "100일의 거짓말",
+          "rawKeyword": "100일의 거짓말",
           "description": "네이트 실시간 이슈 키워드에서 수집한 검색 신호입니다.",
           "priority": 99,
           "source": "nate",
           "expansions": [
-            "BTS 뷔",
-            "BTS 정국",
-            "BTS 지민",
-            "대상포진",
-            "대상포진증상",
-            "SBS 기후환경대상",
-            "대상웰라이프",
-            "대상포진주사"
+            "100일의 거짓말 몇부작",
+            "100일의 거짓말 나무위키",
+            "100일의 거짓말 시청률",
+            "100일의 거짓말 등장인물",
+            "100일의 거짓말 재방송",
+            "100일의 거짓말 원작",
+            "100일의 거짓말 작가",
+            "100일의 거짓말 송지효"
           ],
-          "expansionSeed": "BTS",
+          "expansionSeed": "100일의 거짓말",
           "insight": {
             "titles": {
-              "seo": "BTS 코르티스 대상 최신 이슈와 핵심 내용 정리",
-              "home": "BTS 코르티스 대상, 403 Forbidden 관련 확인할 점",
-              "topic": "BTS 코르티스 대상",
+              "seo": "100일의 거짓말 최신 이슈와 핵심 내용 정리",
+              "home": "100일의 거짓말, Attention Required! 관련 확인할 점",
+              "topic": "100일의 거짓말",
               "topicGroup": "네이트 실시간 검색어"
             },
             "facts": [
               {
-                "text": "그룹 방탄소년단( BTS )과 코르티스 가 대중음악 시상식 ‘2026 마마 어워즈’ 둘째 날 나란히 대상 을 받았다. BTS 와 코르티스 는 21일 일본 오사카 교세라돔에서 열린 ‘2026 마마 어워즈’ 2일 차 시상식에서 대상 격인 ‘올해의 앨범 위드 비자’와 ‘올해의 노래 위드 비자’를 각각 수상했다.",
+                "text": "tvN 토일드라마_ 100일의 거짓말 _김유정X김현주X진선규 위태로운 삼자대면' 100일의 거짓말 ' 김유정, 김현주, 진선규가 취조실에서 위태로운 삼자대면을 벌인다. 진선규가 김유정을 향해 총구를 겨누는 가운데 김현주의 흔들리는 눈빛이 긴장감을 더한다.",
                 "sourceIndex": 0
               },
               {
-                "text": "BTS · 코르티스 , 마마 둘째날 대상 …3관왕 빅뱅, 신곡 무대 첫선",
+                "text": "‘ 100일의 거짓말 ’ 이무생이 절체절명의 위기에 처한 김현주를 구하기 위해 정무총감 진선규와 한 치의 물러섬 없는 정면 승부를 벌였다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.khan.co.kr/article/202611212100001",
-                "press": "경향신문"
+                "url": "https://www.bntnews.co.kr/article/view/bnt202611210095",
+                "press": "bnt뉴스"
               },
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121047200005?input=1195m",
-                "press": "연합뉴스"
+                "url": "https://sports.khan.co.kr/article/202611220109003?pt=nv",
+                "press": "스포츠경향"
               }
             ],
             "images": [
-              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F032%2F2026%2F11%2F21%2F3484140.jpg&type=fface200_200&expire=2&refresh=true"
+              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F5191%2F2026%2F11%2F21%2F536033.jpg&type=fface200_200&expire=2&refresh=true"
             ],
             "press": [
-              "경향신문",
-              "연합뉴스"
+              "bnt뉴스",
+              "스포츠경향"
             ],
             "headlines": [
-              "403 Forbidden",
-              "BTS · 코르티스 , 마마 둘째날 대상 …3관왕 빅뱅, 신곡 무대 첫선"
+              "Attention Required!",
+              "‘ 100일의 거짓말 ’ 이무생, 김현주 구하려 진선규와 정면충돌… 애틋 ..."
             ],
             "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "nate-3",
           "rank": 3,
-          "keyword": "신한은행 공동 선두",
-          "title": "신한은행 공동 선두",
-          "rawKeyword": "신한은행 공동 선두",
+          "keyword": "ITZY 채령 한번도",
+          "title": "ITZY 채령 한번도",
+          "rawKeyword": "ITZY 채령 한번도",
           "description": "네이트 실시간 이슈 키워드에서 수집한 검색 신호입니다.",
           "priority": 98,
           "source": "nate",
           "expansions": [
-            "신한은행 고객센터",
-            "신한은행 atm",
-            "신한은행 운세",
-            "신한은행 영업시간",
-            "신한은행 지점",
-            "신한은행 농구단",
-            "신한은행 점검시간",
-            "신한은행 사주"
+            "itzy 채령",
+            "ITZY 매출",
+            "ITZY 재산",
+            "한번도",
+            "채령 채연",
+            "잇지 채령",
+            "채령 나무위키",
+            "채령 lovesick"
           ],
-          "expansionSeed": "신한은행",
+          "expansionSeed": "ITZY",
           "insight": {
             "titles": {
-              "seo": "신한은행 공동 선두 최신 이슈와 핵심 내용 정리",
-              "home": "신한은행 공동 선두, 여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁 관련 확인할 점",
-              "topic": "신한은행 공동 선두",
+              "seo": "ITZY 채령 한번도 최신 이슈와 핵심 내용 정리",
+              "home": "ITZY 채령 한번도, 이영자 당황시킨 소식좌…ITZY 채령 \"라면 끓여 본 적 없어\"(전참시)[TV캡처] 관련 확인할 점",
+              "topic": "ITZY 채령 한번도",
               "topicGroup": "네이트 실시간 검색어"
             },
             "facts": [
               {
-                "text": "여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁 이성훈 기자 Seoul 작성 2026.11.21 18:00 조회 조회수 ▲ 신한은행 신지현의 슛 여자프로농구 인천 신한은행이 지난 시즌 우승팀 청주 KB를 4연패에 빠뜨리며 공동 선두 자리를 되찾았습니다. 신한은행은 21일 청주체육관에서 열린 KB스타뱅킹 2026-2027 여자프로농구 정규리그 원정 경기에서 84-69로 이겼습니다. 지난 시즌 최하위에 그쳤으나 이번 시즌엔 초반 선두권 경쟁을 벌이는 신한은행은 최근 3연승을 내달리며 5승 1패를 기록, 용인 삼성생명과 공동 선두에 올랐습니다.",
+                "text": "그룹 ITZY (있지) 채령 이 남다른 '소식좌' 면모로 스튜디오를 술렁이게 했다. 채령 은 당황하더니 \"혼자 살면서 한 번도 라면 끓여 먹어 본 적 없다\"라고 털어놨다.",
                 "sourceIndex": 0
               },
               {
-                "text": "여자프로농구 인천 신한은행 이 청주 KB국민 은행 을 꺾고 3연승을 질주해 공동 선두 로 도약했다. 신한은행 은 21일 청주체육관에서 열린 국민 은행 과의 KB스타뱅킹 2026~2027시즌 여자프로농구 정규리그 원정 경기에서 84-69로 이겼다.",
+                "text": "'전지적 참견 시점' 그룹 있지( ITZY ) 채령 이 '소식좌' 이미지에 대해 해명했다. 채령 은 혼자 살면서 집에서 라면을 한 번도 끓여본 적이 없다고 답했다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857072&plink=ORI&cooper=NAVER",
-                "press": "SBS"
+                "url": "http://www.stoo.com/article.php?aid=110032547830",
+                "press": "스포츠투데이"
               },
               {
-                "url": "https://www.newsis.com/view/NISX20261121_0003877782",
-                "press": "뉴시스"
+                "url": "https://www.tenasia.co.kr/article/2026112115944",
+                "press": "텐아시아"
               }
             ],
             "images": [
-              "https://img.sbs.co.kr/newimg/news/20261121/202243075_1280.jpg"
+              "https://www.stoo.com/upimages/gisaimg/202611/221100325.jpg"
             ],
             "press": [
-              "SBS",
-              "뉴시스"
+              "스포츠투데이",
+              "텐아시아"
             ],
             "headlines": [
-              "여자농구 신한은행, 3연승으로 공동 선두…KB는 4연패 수렁",
-              "여자농구 신한은행 , 3연승으로 공동 선두 …BNK는 2연패 탈출(종합)"
+              "이영자 당황시킨 소식좌…ITZY 채령 \"라면 끓여 본 적 없어\"(전참시)[TV캡처]",
+              "있지 채령 , '프링글스 한 통' 이후 또…\"라면 NO, 피자는 세 조각\" ('전참..."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "nate-4",
           "rank": 4,
-          "keyword": "대구 경북 규탄대회",
-          "title": "대구 경북 규탄대회",
-          "rawKeyword": "대구 경북 규탄대회",
+          "keyword": "18세 1골 1도움",
+          "title": "18세 1골 1도움",
+          "rawKeyword": "18세 1골 1도움",
           "description": "네이트 실시간 이슈 키워드에서 수집한 검색 신호입니다.",
           "priority": 97,
           "source": "nate",
           "expansions": [
-            "대구 날씨",
-            "대구 가볼만한곳",
-            "대구fc",
-            "대구 맛집",
-            "대구 놀거리",
-            "대구 서문시장",
-            "대구 이월드",
-            "대구 cgv"
+            "18세순이",
+            "만18세 국민연금",
+            "만18세",
+            "낭랑18세",
+            "18세기",
+            "루이18세",
+            "낭랑18세 뜻",
+            "만18세 나이"
           ],
-          "expansionSeed": "대구",
+          "expansionSeed": "18세",
           "insight": {
             "titles": {
-              "seo": "대구 경북 규탄대회 최신 이슈와 핵심 내용 정리",
-              "home": "대구 경북 규탄대회, 국힘 \"與 조작기소특검·조희대 탄핵은 반역\"…대구서 규탄집회 관련 확인할 점",
-              "topic": "대구 경북 규탄대회",
+              "seo": "18세 1골 1도움 최신 이슈와 핵심 내용 정리",
+              "home": "18세 1골 1도움, \"토트넘에 이런 선수가 있었다니\"...18세 신성, PL 첫 선발부터 1골 1도움 폭발 '2-0 완승+9위 도약' 관련 확인할 점",
+              "topic": "18세 1골 1도움",
               "topicGroup": "네이트 실시간 검색어"
             },
             "facts": [
               {
-                "text": "이재명 탈옥법 대구 · 경북 규탄대회 '를 개최했다. 규탄대회에는 장동혁 대표와 정점식 원내대표를 비롯해 대구·경북 지역 포함 의원 약 40명과 최고위원, 원외 당협위원장 등이 참석했다.",
+                "text": "토트넘 홋스퍼가 18세 신예 루카 윌리엄스-바넷의 맹활약을 앞세워 입스위치 타운을 제압했다.",
                 "sourceIndex": 0
               },
               {
-                "text": "이재명 탈옥법 대구경북 규탄대회 '를 개최한다. 국민의힘은 특검법이 국회 본회의를 통과한 지난 6일 이후 서울 도심과 청와대 앞 등에서 장외 집회와 현장 최고위원회의, 의원총회 등을 잇달아 열며 특검법 폐지를 촉구했다.",
+                "text": "축구 통계 매체 '스쿼카'에 따르면 윌리엄스-바넷은 18세 51일의 나이로 득점하면서 토트넘의 프리미어리그 역대 최연소 득점자 3위에 올랐다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.yna.co.kr/view/AKR20261121042300001?input=1195m",
-                "press": "연합뉴스"
+                "url": "http://www.osen.co.kr/article/G1112913560",
+                "press": "OSEN"
               },
               {
-                "url": "https://www.newsis.com/view/NISX20261120_0003877287",
-                "press": "뉴시스"
+                "url": "https://www.xportsnews.com/article/2221858",
+                "press": "엑스포츠뉴스"
               }
             ],
             "images": [
-              "https://img2.yna.co.kr/photo/yna/YH/2026/11/21/PYH2026112104270001300_P4.jpg"
+              "http://file.osen.co.kr/article_thumb/2026/11/22/202611220132772789_6b01cd1064701_300x.jpg"
             ],
             "press": [
-              "연합뉴스",
-              "뉴시스"
+              "OSEN",
+              "엑스포츠뉴스"
             ],
             "headlines": [
-              "국힘 \"與 조작기소특검·조희대 탄핵은 반역\"…대구서 규탄집회",
-              "국힘, 대구 서 '조작기소 특검법' 규탄 집회…\"李 재판 재개하라\""
+              "\"토트넘에 이런 선수가 있었다니\"...18세 신성, PL 첫 선발부터 1골 1도움 폭발 '2-0 완승+9위 도약'",
+              "양민혁 절망! \"여기 양민혁 같은 선수 많다\" 손흥민 경고, 정확한 팩트였..."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
           "id": "nate-5",
           "rank": 5,
-          "keyword": "채령 채연",
-          "title": "채령",
-          "rawKeyword": "채령",
+          "keyword": "추성훈",
+          "title": "추성훈",
+          "rawKeyword": "추성훈",
           "description": "네이트 실시간 이슈 키워드에서 수집한 검색 신호입니다.",
           "priority": 96,
           "source": "nate",
           "expansions": [
-            "채령 채연",
-            "잇지 채령",
-            "채령 나무위키",
-            "채령 lovesick",
-            "채령 사복",
-            "채령 엔하이픈",
-            "채령 섬유유연제",
-            "채령 세제"
+            "추성훈 은퇴전",
+            "추성훈 크리스리벤",
+            "추성훈 스테이크",
+            "추성훈 경기",
+            "추성훈 나무위키",
+            "추성훈 은퇴전 중계",
+            "추성훈 국적",
+            "추성훈 은퇴전 결과"
           ],
-          "expansionSeed": "채령",
+          "expansionSeed": "추성훈",
           "insight": {
             "titles": {
-              "seo": "채령 채연 최신 이슈와 핵심 내용 정리",
-              "home": "채령 채연, 채령 · 채연 , 투병 중인 母와 영상통화…애틋한 가족사 공개 관련 확인할 점",
-              "topic": "채령 채연",
+              "seo": "추성훈 최신 이슈와 핵심 내용 정리",
+              "home": "추성훈, 추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표 관련 확인할 점",
+              "topic": "추성훈",
               "topicGroup": "네이트 실시간 검색어"
             },
             "facts": [
               {
-                "text": "특히 투병 중인 어머니와의 깜짝 영상통화가 뭉클함을 안길 전망이다. 힘든 시간을 함께 견뎌온 가족의 애틋한 마음이 전해지며 자매의 또 다른 모습이 공개된다.",
+                "text": "22년간 활약한 격투기 선수 추성훈이 크리스 리벤과의 공식 은퇴전에서 판정패하며 현역 생활을 마쳤다. 경기 후 추성훈은 팬들에게 작별 인사를 건네며, 파이트머니 전액을 후배 선수들에게 기부하겠다는 계획을 밝혀 화제가 되었다.",
                 "sourceIndex": 0
               },
               {
-                "text": "그룹 있지(ITZY) 채령 이 친언니 채연 의 연습생 시절을 떠올리며 미안했던 마음을 고백했다. 21일 방송된 MBC '전지적 참견 시점' 425회에서는 채령 이 친언니 채연 과 함께 찜질방을 찾은 모습이 그려졌다.",
+                "text": "추성훈 (51)이 22년 격투기 인생을 아쉬운 패배로 마무리했다. 추성훈 은 21일 서울 고척스카이돔에서 열린 국내 종합격투기 단체 블래컴뱃 대회 코메인 이벤트 89㎏급(계약체중) 매치에서 크리스 리벤(46·미국)에게 1-2(28-29 29-28 28-29)로 판정패했다.",
                 "sourceIndex": 1
               }
             ],
             "links": [
               {
-                "url": "https://www.mk.co.kr/article/12215165",
-                "press": "매일경제"
+                "url": "https://www.chosun.com/national/national_general/2026/11/21/BGYURZ6B3VESHKOM7WVOLNJ4XE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+                "press": "조선일보"
               },
               {
-                "url": "https://www.xportsnews.com/article/2221859",
-                "press": "엑스포츠뉴스"
+                "url": "https://www.joongang.co.kr/article/25480718",
+                "press": "중앙일보"
               }
             ],
             "images": [
-              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F009%2F2026%2F11%2F21%2F5766952.jpg&type=fface200_200&expire=2&refresh=true"
+              "https://www.chosun.com/resizer/v2/AWWVSGBRWJE45LWJUESKYLBJEQ.jpg?auth=4d7f985c44e90e7bec86c7ef419c697080847eef316d152a5a2bc8e0006532a7&width=1200&height=630&focal=1998,1006"
             ],
             "press": [
-              "매일경제",
-              "엑스포츠뉴스"
+              "조선일보",
+              "중앙일보"
             ],
             "headlines": [
-              "채령 · 채연 , 투병 중인 母와 영상통화…애틋한 가족사 공개",
-              "채령 , 친언니 채연 JYP 퇴사에 죄책감…\"내가 나갔어야 했는데\" (전참시..."
+              "추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표",
+              "추성훈 , 원수에 복수 못하고 떠났다...22년 격투인생 마침표"
             ],
-            "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         }
       ]
@@ -1619,7 +1513,7 @@
               "수능 끝나면 대학가 자취방 시즌… 청년 노린 전세사기 ·부동산 경매 물..."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -1683,7 +1577,7 @@
               "[2026 국감] ' 책무구조도 ' 도입후 금융사고 203건… 제재 '0건'"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -1709,7 +1603,7 @@
           "insight": {
             "titles": {
               "seo": "10월 초 수출 급증 최신 이슈와 핵심 내용 정리",
-              "home": "10월 초 수출 급증, KBS 뉴스 관련 확인할 점",
+              "home": "10월 초 수출 급증, 어떻게 ‘ 수출 1조 달러’인데 ‘주가 폭락’이 오나 관련 확인할 점",
               "topic": "10월 초 수출 급증",
               "topicGroup": "줌 실시간 검색어",
               "summary": "연간 수출액이 이번 주 사상 처음으로 1조달러를 넘어설 전망이다. 10월 반도체 수출은 564억달러로 전년 대비 259.4% 급증했다.",
@@ -1717,11 +1611,11 @@
             },
             "facts": [
               {
-                "text": "요청하신 페이지를 찾을 수 없습니다.",
+                "text": "그 때문에 대만 수출 이 급증 합니다. 그게 2025년 10월 쯤이면 한국 반도체 수출 의 25%가 넘을 정도로 거대해집니다.",
                 "sourceIndex": 0
               },
               {
-                "text": "1950~1960년대 초 수산물과 돼지털, 무연탄 등 1차 산품과 가발·의류 등 경공업 제품을 팔며 외화를 벌어들이던 한국이 1조 달러 클럽에 가입하게 된 핵심 동력은 단연 반도체다.",
+                "text": "미국 시장에서 수출 이 급증 한 가운데 국내 기업들이 세포라·코스트코·월마트 등 현지 대형 유통망 입점을 확대하면서 성장세를 키우고 있다. 온라인과 프리미엄 채널을 중심으로 형성된 K-샴푸 인지도가 대중 유통시장으로 확산하는 모습이다.",
                 "sourceIndex": 1
               }
             ],
@@ -1731,23 +1625,23 @@
                 "press": "KBS"
               },
               {
-                "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748866",
-                "press": "폴리뉴스"
+                "url": "https://www.etnews.com/20261120000209",
+                "press": "전자신문"
               }
             ],
             "images": [
-              "https://news.kbs.co.kr/resource/image/common/img_meta.png"
+              "https://search.pstatic.net/common/?src=https%3A%2F%2Fimgnews.pstatic.net%2Fimage%2Forigin%2F056%2F2026%2F11%2F21%2F12298560.jpg&type=fface200_200&expire=2&refresh=true"
             ],
             "press": [
               "KBS",
-              "폴리뉴스"
+              "전자신문"
             ],
             "headlines": [
-              "KBS 뉴스",
-              "[이슈] 한국, 전 세계 4번째 수출 1조달러 돌파…李 \"모두의 성장 만들 ..."
+              "어떻게 ‘ 수출 1조 달러’인데 ‘주가 폭락’이 오나",
+              "K-샴푸, 수출 2억달러 돌파… 10월 미국 수출 5배 급증"
             ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "extraction": "search-card",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -1810,7 +1704,7 @@
               "LH 임대주택 150만호 돌파…하자관리·화재안전 대책 강화"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -1874,7 +1768,7 @@
               "월가 “연준이 금리 안올린 건 실수”… 한은 은?"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         }
       ]
@@ -1935,7 +1829,7 @@
               "'강정호도 아니라는데' 키움은 또 틀렸고 NC는 옳았다...데이비슨, 확실히 하락세, 키움 2용타 완전 실패"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2000,7 +1894,7 @@
               "'韓 수비 에이스 ' 김민재 미쳤다 , 독일 생활 마침표 찍고 EPL 입성할까....."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2055,7 +1949,7 @@
               "403 Forbidden"
             ],
             "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2120,7 +2014,7 @@
               "[공식발표] ' 손흥민 선발 명단 제외 ' LAFC, 콜로라도전 'BEST 11' 공개!…..."
             ],
             "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2175,7 +2069,7 @@
               "\"와, 대박이다!\" 7번 물려준 그리즈만도 환호성...'데뷔전 데뷔골' 이강인 '후계자 자격' 완벽 증명"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2230,7 +2124,7 @@
               "'와' 한국 야구 대박 터지나! 17억 이도류 유망주 156km '쾅'→2이닝 4K 무실점 호투...\"정말 인상적\" 美 극찬 이어져"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2285,7 +2179,7 @@
               "[오피셜] 이럴수가, 배지환 ML 생존 벼랑 끝 몰렸다! 30개 구단 모두 외면…웨이버 통과→트리플A 이관 \"FA 선택할 듯\" 美 전망"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2340,7 +2234,7 @@
               "안세영이 돌아왔다! 압승, 쾌승!…유럽 최강자 블리치펠트 43분 만에 2-0 완파→세계선수권 8강행 성공"
             ],
             "extraction": "search-card",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2395,7 +2289,7 @@
               "[오피셜] '충격' 아슬아슬했던 전북현대 끝내 무너졌다...디펜딩 챔피언 코리아컵 16강 탈락, K3 당진 '자이언트 킬링' 성공→8개 팀 생존"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2460,7 +2354,7 @@
               "' 손흥민 과 한솥밥 먹었는데' 토트넘 역대 최고 이적료 주인공의 몰락…..."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         }
       ]
@@ -2487,7 +2381,7 @@
             "이용객 방문객 차이",
             "아이폰 최우선알림",
             "최우선변제금액",
-            "최우선변제금"
+            "최우선변제"
           ],
           "expansionSeed": "정의경",
           "insight": {
@@ -2529,7 +2423,7 @@
               "정의경 국토부 2차관, 경부선 탈선 현장 점검…\"철저한 원인 규명·재발 방지 총력\""
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2549,8 +2443,8 @@
             "우리카드",
             "우리기술",
             "우리들의 블루스",
-            "우리아이들병원",
-            "우리로"
+            "우리로",
+            "만약에 우리"
           ],
           "expansionSeed": "우리",
           "insight": {
@@ -2580,7 +2474,7 @@
               "우리 사회의 인공지능을 생각하고 토론하는 축제의 장 ｢AI 인사이트 페스"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2595,13 +2489,13 @@
           "officialUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790144&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
           "expansions": [
             "경부선 사고",
+            "경부선 탈선",
+            "소정리역 탈선",
+            "경부선 소정리역",
             "경부선 노선도",
-            "경부선 지하화",
-            "고속터미널 경부선",
             "ktx 경부선",
-            "ktx 경부선 노선도",
             "경부선 지연",
-            "경부선 개통"
+            "경부선 지하화"
           ],
           "expansionSeed": "경부선",
           "insight": {
@@ -2631,7 +2525,7 @@
               "경부선 소정리역 화물열차 탈선 사고 대응에 만전을 기하고 있습니다."
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2647,8 +2541,8 @@
           "expansions": [
             "피지컬ai",
             "피지컬가먼츠",
-            "피지컬 뜻",
             "피지컬100",
+            "피지컬 뜻",
             "피지컬 아시아",
             "피지컬 ai 뜻",
             "피지컬지옥",
@@ -2682,7 +2576,7 @@
               "미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2701,9 +2595,9 @@
             "국방부장관",
             "법무부장관",
             "최교진 장관",
-            "과기부장관",
             "국토부장관",
-            "통일부장관"
+            "국방장관",
+            "교육장관"
           ],
           "expansionSeed": "장관",
           "insight": {
@@ -2733,7 +2627,7 @@
               "(참고)노동부 장관 국가자격시험장 현장 살핀다"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2799,7 +2693,7 @@
               "[ 인사 ] 외교부"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2820,7 +2714,7 @@
             "함께학교",
             "신과함께",
             "신과함께3",
-            "우리함께런"
+            "쌤과함께"
           ],
           "expansionSeed": "외교관과",
           "insight": {
@@ -2850,7 +2744,7 @@
               "외교관과 함께 이야기하는 개발협력 청년의 시선으로 미래를 그리다"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2867,11 +2761,11 @@
             "기념일 계산기",
             "기념품",
             "기념일",
-            "천안 독립기념관",
             "결혼기념일 선물",
+            "천안 독립기념관",
             "윌스기념병원",
             "용산 전쟁기념관",
-            "독립기념관"
+            "홍콩 기념품"
           ],
           "expansionSeed": "기념",
           "insight": {
@@ -2913,7 +2807,7 @@
               "배경훈 부총리 \"UAE와 AI·첨단 과학기술 협력…성과 확대\""
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -2928,13 +2822,13 @@
           "officialUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156790137&pageIndex=1&repCodeType=&repCode=&startDate=2025-11-22&endDate=2026-11-22&srchWord=&period=",
           "expansions": [
             "행정안전부 장관",
-            "행정안전부 나라배움터",
             "행정안전부 채용",
+            "행정안전부 나라배움터",
             "행정안전부 신분증",
             "행정안전부 소통24",
+            "행정안전부 공무직",
             "행정안전부 차관",
-            "행정안전부 인사",
-            "행정안전부 공무직"
+            "행정안전부 벌금"
           ],
           "expansionSeed": "행정안전부",
           "insight": {
@@ -2986,7 +2880,7 @@
               "겨울철 블랙아이스 조심하세요…정부, 현장 실태 점검"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         },
         {
@@ -3002,12 +2896,12 @@
           "expansions": [
             "제12차전기본의",
             "결과 영어로",
+            "추성훈 결과",
+            "블랙컴뱃 결과",
             "야구결과",
-            "수능결과",
-            "수능 결과 발표일",
             "축구결과",
-            "경정결과",
-            "롤드컵 결과"
+            "추성훈 경기결과",
+            "수능결과"
           ],
           "expansionSeed": "제12차",
           "insight": {
@@ -3037,7 +2931,7 @@
               "제12차 한-일 국장급 중동정책협의회 개최 결과"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         }
       ]
@@ -3049,11 +2943,552 @@
         {
           "id": "issue-1",
           "rank": 1,
+          "keyword": "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'",
+          "title": "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'",
+          "rawKeyword": "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'",
+          "description": "스타뉴스 최신 기사 · 방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'",
+          "priority": 100,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/music/2026/11/22/2026112207081523991",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "방탄소년단 진",
+            "방탄소년단 나무위키",
+            "방탄소년단 뷔",
+            "방탄소년단 지민",
+            "방탄소년단 정국",
+            "방탄소년단 슈가",
+            "방탄소년단 rm",
+            "방탄소년단 갤러리"
+          ],
+          "expansionSeed": "방탄소년단",
+          "ago": "1분 전",
+          "agoMinutes": 1,
+          "publishedLabel": "2026-11-21T22:11:10.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112207081523991_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1' 최신 이슈와 핵심 내용 정리",
+              "home": "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1', 방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1' 관련 확인할 점",
+              "topic": "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · 방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/music/2026/11/22/2026112207081523991",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112207081523991_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-2",
+          "rank": 2,
+          "keyword": "\"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명",
+          "title": "\"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명",
+          "rawKeyword": "\"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명",
+          "description": "스타뉴스 최신 기사 · \"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명",
+          "priority": 99,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/star/2026/11/22/2026112123353225224",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "재조명 뜻",
+            "에뛰드 재조명",
+            "재조명하다",
+            "재조명하다 뜻",
+            "재조명 재창조",
+            "재조명 쉐딩방법",
+            "주책이네요 뜻",
+            "태양의 후예"
+          ],
+          "expansionSeed": "주책이네요",
+          "ago": "2분 전",
+          "agoMinutes": 2,
+          "publishedLabel": "2026-11-21T22:10:00.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123353225224_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "\"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명 최신 이슈와 핵심 내용 정리",
+              "home": "\"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명, \"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명 관련 확인할 점",
+              "topic": "\"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · \"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/star/2026/11/22/2026112123353225224",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123353225224_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "\"주책이네요\" 태양, 눈물의 수상소감..♥민효린 근황 재조명"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-3",
+          "rank": 3,
+          "keyword": "플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\"",
+          "title": "플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\"",
+          "rawKeyword": "플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\"",
+          "description": "스타뉴스 최신 기사 · 플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\"",
+          "priority": 98,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112200115319560",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "다이쇼8년",
+            "예비군 8년차",
+            "라가불린 8년",
+            "레이와 8년",
+            "와일드터키 8년",
+            "고정공주 8년",
+            "글렌알라키 8년",
+            "8년차 연차"
+          ],
+          "expansionSeed": "8년",
+          "ago": "34분 전",
+          "agoMinutes": 34,
+          "publishedLabel": "2026-11-21T21:38:00.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200115319560_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\" 최신 이슈와 핵심 내용 정리",
+              "home": "플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\", 플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\" 관련 확인할 점",
+              "topic": "플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\"",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · 플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\"",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112200115319560",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200115319560_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "플라이투더스카이, 8년 만 재결합..\"다시 뭉치기까지 용기 필요했다\""
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-4",
+          "rank": 4,
+          "keyword": "추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\"",
+          "title": "추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\"",
+          "rawKeyword": "추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\"",
+          "description": "스타뉴스 최신 기사 · 추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\"",
+          "priority": 97,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/star/2026/11/22/2026112200322212330",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "마지막황제",
+            "마지막 패리시 부인",
+            "마지막 잎새",
+            "마지막썸머",
+            "마지막처럼",
+            "마지막승부",
+            "고구려 마지막왕",
+            "닥터x 마지막회"
+          ],
+          "expansionSeed": "추성훈",
+          "ago": "42분 전",
+          "agoMinutes": 42,
+          "publishedLabel": "2026-11-21T21:30:00.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200322212330_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\" 최신 이슈와 핵심 내용 정리",
+              "home": "추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\", 추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\" 관련 확인할 점",
+              "topic": "추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\"",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · 추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\"",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/star/2026/11/22/2026112200322212330",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200322212330_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "추성훈, 마지막 도전 빛났다..박진영→변요한 응원 \"가장 멋진 은퇴\""
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-5",
+          "rank": 5,
+          "keyword": "채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\"",
+          "title": "채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\"",
+          "rawKeyword": "채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\"",
+          "description": "스타뉴스 최신 기사 · 채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\"",
+          "priority": 96,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112200200257531",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "셀프세차장",
+            "셀프빨래방",
+            "셀프사진관",
+            "셀프포트레이트",
+            "셀프정비소",
+            "셀프스튜디오",
+            "배민셀프서비스",
+            "셀프 왁싱"
+          ],
+          "expansionSeed": "채령",
+          "ago": "50분 전",
+          "agoMinutes": 50,
+          "publishedLabel": "2026-11-21T21:22:00.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200200257531_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\" 최신 이슈와 핵심 내용 정리",
+              "home": "채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\", 채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\" 관련 확인할 점",
+              "topic": "채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\"",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · 채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\"",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112200200257531",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200200257531_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "채령, 집에서 셀프 제모하는 이유 \"털 있는데..피부과에서 안 해줘\""
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-6",
+          "rank": 6,
+          "keyword": "\"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼",
+          "title": "\"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼",
+          "rawKeyword": "\"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼",
+          "description": "스타뉴스 최신 기사 · \"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼",
+          "priority": 95,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/star/2026/11/22/2026112016271976464",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "유부녀킬러",
+            "유부녀 뜻",
+            "유부녀 욕정의 밤",
+            "유부녀즐감",
+            "유부녀회",
+            "유부녀킬러2",
+            "유부녀킬러 웹툰",
+            "유부녀 영어로"
+          ],
+          "expansionSeed": "유부녀",
+          "ago": "1시간 전",
+          "agoMinutes": 60,
+          "publishedLabel": "2026-11-21T21:00:00.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112016271976464_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "\"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼 최신 이슈와 핵심 내용 정리",
+              "home": "\"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼, \"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼 관련 확인할 점",
+              "topic": "\"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · \"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/star/2026/11/22/2026112016271976464",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112016271976464_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "\"축하해, 가지 마\" 포미닛 두 번째 유부녀 탄생..전지윤, 오늘(22일) 결혼"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-7",
+          "rank": 7,
+          "keyword": "\"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석",
+          "title": "\"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석",
+          "rawKeyword": "\"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석",
+          "description": "스타뉴스 최신 기사 · \"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석",
+          "priority": 94,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/star/2026/11/22/2026112115305222583",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "정석원",
+            "정석준",
+            "성공의 정석 꾼",
+            "정석용",
+            "정석 뜻",
+            "정석민",
+            "룸의정석",
+            "정석가"
+          ],
+          "expansionSeed": "김나영",
+          "ago": "1시간 전",
+          "agoMinutes": 60,
+          "publishedLabel": "2026-11-21T20:41:00.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112115305222583_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "\"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석 최신 이슈와 핵심 내용 정리",
+              "home": "\"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석, \"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석 관련 확인할 점",
+              "topic": "\"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · \"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/star/2026/11/22/2026112115305222583",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112115305222583_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "\"미쳤다\" 김나영, ♥마이큐와 설레는 키차이..재혼의 정석"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-8",
+          "rank": 8,
+          "keyword": "이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\"",
+          "title": "이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\"",
+          "rawKeyword": "이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\"",
+          "description": "스타뉴스 최신 기사 · 이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\"",
+          "priority": 93,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112201220698118",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "투병 뜻",
+            "정연주 투병",
+            "김우빈 투병",
+            "암투병",
+            "투병일기",
+            "윤도현 투병",
+            "김종국 투병",
+            "체리형부 투병"
+          ],
+          "expansionSeed": "투병",
+          "ago": "1시간 전",
+          "agoMinutes": 60,
+          "publishedLabel": "2026-11-21T20:25:00.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112201220698118_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\" 최신 이슈와 핵심 내용 정리",
+              "home": "이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\", 이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\" 관련 확인할 점",
+              "topic": "이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\"",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · 이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\"",
+                "sourceIndex": 0
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112201220698118",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112201220698118_1.jpg"
+            ],
+            "press": [
+              "스타뉴스"
+            ],
+            "headlines": [
+              "이채연·채령, 母 암 투병 고백 \"팬미팅서 오열..원발부위 찾는 중\""
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-9",
+          "rank": 9,
+          "keyword": "코르티스 'MAMA2026 대상 축하해요~'",
+          "title": "코르티스 'MAMA2026 대상 축하해요~'",
+          "rawKeyword": "코르티스 'MAMA2026 대상 축하해요~'",
+          "description": "스타뉴스 최신 기사 · 코르티스 'MAMA2026 대상 축하해요~'",
+          "priority": 92,
+          "source": "issue",
+          "officialUrl": "https://www.starnewskorea.com/music/2026/11/22/2026112202370037506",
+          "sourceLabel": "스타뉴스",
+          "expansions": [
+            "코르티스 나무위키",
+            "코르티스 건호",
+            "코르티스 주훈",
+            "코르티스 성현",
+            "코르티스 제임스",
+            "코르티스 redred",
+            "코르티스 마틴",
+            "코르티스 엄성현"
+          ],
+          "expansionSeed": "코르티스",
+          "ago": "4시간 전",
+          "agoMinutes": 240,
+          "publishedLabel": "2026-11-21T17:37:59.000Z",
+          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112202370037506_1.jpg",
+          "insight": {
+            "titles": {
+              "seo": "코르티스 'MAMA2026 대상 축하해요~' 최신 이슈와 핵심 내용 정리",
+              "home": "코르티스 'MAMA2026 대상 축하해요~', 코르티스 'MAMA2026 대상 축하해요~' 관련 확인할 점",
+              "topic": "코르티스 'MAMA2026 대상 축하해요~'",
+              "topicGroup": "이슈 실시간 검색어"
+            },
+            "facts": [
+              {
+                "text": "스타뉴스 최신 기사 · 코르티스 'MAMA2026 대상 축하해요~'",
+                "sourceIndex": 0
+              },
+              {
+                "text": "(BTS)과 코르티스 가 대중음악 시상식 ' 2026 마마 어워즈'( 2026 MAMA AWARDS) 둘째 날 대상 을 받았다. 빅뱅은 이날 시상식에서 전날 깜짝 발매한 신곡 '기립'(GiiiRIP)의 무대를 처음으로 선보였다.",
+                "sourceIndex": 1
+              },
+              {
+                "text": "그룹 코르티스 (CORTIS) 제임스, 마틴, 주훈, 성현, 건호가 MAMA2026 시상식 일정을 마치고 22일 새벽 인천국제공항을 통해 입국하고 있다.",
+                "sourceIndex": 2
+              }
+            ],
+            "links": [
+              {
+                "url": "https://www.starnewskorea.com/music/2026/11/22/2026112202370037506",
+                "press": "스타뉴스"
+              },
+              {
+                "url": "https://www.yna.co.kr/view/AKR20261121047200005?input=1195m",
+                "press": "연합뉴스"
+              },
+              {
+                "url": "https://www.starnewskorea.com/photo/2026/11/22/2026112202370037506",
+                "press": "스타뉴스"
+              }
+            ],
+            "images": [
+              "https://img0.yna.co.kr/etc/inner/KR/2026/11/21/AKR20261121047200005_01_i_P4.jpg"
+            ],
+            "press": [
+              "스타뉴스",
+              "연합뉴스"
+            ],
+            "headlines": [
+              "코르티스 'MAMA2026 대상 축하해요~'",
+              "BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선",
+              "코르티스 'MAMA2026 대상 축하해요~' [★영상]"
+            ],
+            "extraction": "playwright",
+            "collectedAt": "2026-11-21T22:14:13.450Z"
+          }
+        },
+        {
+          "id": "issue-10",
+          "rank": 10,
           "keyword": "김혜수, MAMA 홀린 독보적 아우라..'슈룹' 아들 문상민과 다정 투샷",
           "title": "김혜수, MAMA 홀린 독보적 아우라..'슈룹' 아들 문상민과 다정 투샷",
           "rawKeyword": "김혜수, MAMA 홀린 독보적 아우라..'슈룹' 아들 문상민과 다정 투샷",
           "description": "스타뉴스 최신 기사 · 김혜수, MAMA 홀린 독보적 아우라..'슈룹' 아들 문상민과 다정 투샷",
-          "priority": 100,
+          "priority": 91,
           "source": "issue",
           "officialUrl": "https://www.starnewskorea.com/star/2026/11/22/2026112200542654685",
           "sourceLabel": "스타뉴스",
@@ -3061,15 +3496,15 @@
             "투샷 뜻",
             "장안동 투샷",
             "투샷잔",
+            "투샷 카페",
             "투샷 아메리카노",
             "투샷 카페인 함량",
-            "투샷 카페",
             "투샷 카페인",
             "투샷 원두무게"
           ],
           "expansionSeed": "김혜수",
-          "ago": "59분 전",
-          "agoMinutes": 59,
+          "ago": "6시간 전",
+          "agoMinutes": 360,
           "publishedLabel": "2026-11-21T16:11:20.000Z",
           "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200542654685_1.jpg",
           "insight": {
@@ -3101,529 +3536,11 @@
               "김혜수, MAMA 홀린 독보적 아우라..'슈룹' 아들 문상민과 다정 투샷"
             ],
             "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-2",
-          "rank": 2,
-          "keyword": "\"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태",
-          "title": "\"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태",
-          "rawKeyword": "\"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태",
-          "description": "스타뉴스 최신 기사 · \"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태",
-          "priority": 99,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/star/2026/11/22/2026112200392582791",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "아이브 안유진",
-            "자태 뜻",
-            "자태양",
-            "안유진 나무위키",
-            "안유진 패딩",
-            "안유진 성찬",
-            "안유진 청약",
-            "스페이스a 안유진"
-          ],
-          "expansionSeed": "안유진",
-          "ago": "1시간 전",
-          "agoMinutes": 60,
-          "publishedLabel": "2026-11-21T16:05:36.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200392582791_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "\"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태 최신 이슈와 핵심 내용 정리",
-              "home": "\"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태, \"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태 관련 확인할 점",
-              "topic": "\"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · \"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/star/2026/11/22/2026112200392582791",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200392582791_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "\"춥긴 춥더라\" 아이브 안유진, 'MAMA' 달군 블랙 드레스 자태"
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-3",
-          "rank": 3,
-          "keyword": "은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\"",
-          "title": "은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\"",
-          "rawKeyword": "은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\"",
-          "description": "스타뉴스 최신 기사 · 은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\"",
-          "priority": 98,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112123534044822",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "은가은",
-            "은값",
-            "은가누",
-            "은값시세",
-            "은가격",
-            "은갈치",
-            "은가은의 빛나는 트로트",
-            "은가비"
-          ],
-          "expansionSeed": "은가",
-          "ago": "1시간 전",
-          "agoMinutes": 60,
-          "publishedLabel": "2026-11-21T16:04:32.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123534044822_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\" 최신 이슈와 핵심 내용 정리",
-              "home": "은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\", 은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\" 관련 확인할 점",
-              "topic": "은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112123534044822",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123534044822_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "은가은, 母와 갈등에 결국 눈물 \"손녀 안고 싶었는데..서운해\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-4",
-          "rank": 4,
-          "keyword": "환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\"",
-          "title": "환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\"",
-          "rawKeyword": "환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\"",
-          "description": "스타뉴스 최신 기사 · 환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\"",
-          "priority": 97,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112123590163306",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "초민망한능력자들",
-            "민망한데요",
-            "민망한 꿈",
-            "민망한 기억 잊는법",
-            "민망한 일 잊는법",
-            "민망한 상황 뜻",
-            "민망 한자",
-            "민망하네요"
-          ],
-          "expansionSeed": "민망한",
-          "ago": "1시간 전",
-          "agoMinutes": 60,
-          "publishedLabel": "2026-11-21T15:16:16.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123590163306_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\" 최신 이슈와 핵심 내용 정리",
-              "home": "환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\", 환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\" 관련 확인할 점",
-              "topic": "환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112123590163306",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123590163306_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "환희, 母와 쑥뜸 데이트 중 민망한 좌훈 체험..\"너무 그곳으로 와\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-5",
-          "rank": 5,
-          "keyword": "유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\"",
-          "title": "유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\"",
-          "rawKeyword": "유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\"",
-          "description": "스타뉴스 최신 기사 · 유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\"",
-          "priority": 96,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112200063981159",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "직접 뜻",
-            "직접빌리루빈",
-            "직접인용",
-            "직접적",
-            "주민e직접",
-            "직접전파",
-            "직접세",
-            "직접국밥"
-          ],
-          "expansionSeed": "유영우",
-          "ago": "2시간 전",
-          "agoMinutes": 120,
-          "publishedLabel": "2026-11-21T15:09:24.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200063981159_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\" 최신 이슈와 핵심 내용 정리",
-              "home": "유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\", 유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\" 관련 확인할 점",
-              "topic": "유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112200063981159",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112200063981159_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "유영우, 과소비 두려움 \"한 끼 5000원..헤어·메이크업 직접 해\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-6",
-          "rank": 6,
-          "keyword": "리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\"",
-          "title": "리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\"",
-          "rawKeyword": "리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\"",
-          "description": "스타뉴스 최신 기사 · 리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\"",
-          "priority": 95,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112123592280531",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "리센느 나무위키",
-            "리센느 빵",
-            "리센느 원이",
-            "리센느 제나",
-            "리센느 리브",
-            "리센느 앨범",
-            "리센느 메이",
-            "리센느 미나미"
-          ],
-          "expansionSeed": "리센느",
-          "ago": "2시간 전",
-          "agoMinutes": 120,
-          "publishedLabel": "2026-11-21T15:03:42.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123592280531_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\" 최신 이슈와 핵심 내용 정리",
-              "home": "리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\", 리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\" 관련 확인할 점",
-              "topic": "리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/22/2026112123592280531",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123592280531_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "리센느 원이, 10개월 만에 달라진 삶 \"꿈같아..한순간 사라질까 봐\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-7",
-          "rank": 7,
-          "keyword": "은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\"",
-          "title": "은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\"",
-          "rawKeyword": "은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\"",
-          "description": "스타뉴스 최신 기사 · 은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\"",
-          "priority": 94,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/broadcast-show/2026/11/21/2026112122582958615",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "은가은",
-            "은가은의 빛나는 트로트",
-            "손녀 영어로",
-            "손녀딸",
-            "장동혁 손녀상",
-            "손숙 손녀",
-            "신세계 손녀",
-            "무당손녀"
-          ],
-          "expansionSeed": "은가",
-          "ago": "2026.11.21 ・ 23:31",
-          "publishedLabel": "2026-11-21T14:31:46.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112122582958615_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\" 최신 이슈와 핵심 내용 정리",
-              "home": "은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\", 은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\" 관련 확인할 점",
-              "topic": "은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/broadcast-show/2026/11/21/2026112122582958615",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112122582958615_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "은가은 母, 손녀 낯가림에 속상..\"외할머니만 보면 울어\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-8",
-          "rank": 8,
-          "keyword": "채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\"",
-          "title": "채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\"",
-          "rawKeyword": "채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\"",
-          "description": "스타뉴스 최신 기사 · 채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\"",
-          "priority": 93,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/star/2026/11/21/2026112123201223806",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "고양이 식사량",
-            "강아지 식사량",
-            "돌아기 식사량",
-            "식사량이줄었을때",
-            "식사량 감소",
-            "마운자로 식사량",
-            "식사량 줄이는법",
-            "식사량 차이"
-          ],
-          "expansionSeed": "채령",
-          "ago": "2026.11.21 ・ 23:29",
-          "publishedLabel": "2026-11-21T14:29:19.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123201223806_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\" 최신 이슈와 핵심 내용 정리",
-              "home": "채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\", 채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\" 관련 확인할 점",
-              "topic": "채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/star/2026/11/21/2026112123201223806",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123201223806_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "채령, 이영자 앞 식사량 자랑..\"라면 안 끓여봤지만 피자 세 조각까지\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-9",
-          "rank": 9,
-          "keyword": "박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\"",
-          "title": "박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\"",
-          "rawKeyword": "박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\"",
-          "description": "스타뉴스 최신 기사 · 박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\"",
-          "priority": 92,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/star/2026/11/21/2026112123102121411",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "추성훈 은퇴전",
-            "추성훈 은퇴전 시간",
-            "추성훈 은퇴전 중계",
-            "추성훈 은퇴전 날짜",
-            "추성훈 은퇴전 예매",
-            "추성훈 은퇴전 상대",
-            "추성훈 은퇴전 티켓",
-            "추성훈 은퇴전 방송"
-          ],
-          "expansionSeed": "박진영",
-          "ago": "2026.11.21 ・ 23:14",
-          "publishedLabel": "2026-11-21T14:14:05.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123102121411_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\" 최신 이슈와 핵심 내용 정리",
-              "home": "박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\", 박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\" 관련 확인할 점",
-              "topic": "박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/star/2026/11/21/2026112123102121411",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123102121411_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "박진영, 은퇴전 패배한 추성훈에 뭉클 응원..\"도전으로 넌 이미 승리\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
-          }
-        },
-        {
-          "id": "issue-10",
-          "rank": 10,
-          "keyword": "유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\"",
-          "title": "유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\"",
-          "rawKeyword": "유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\"",
-          "description": "스타뉴스 최신 기사 · 유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\"",
-          "priority": 91,
-          "source": "issue",
-          "officialUrl": "https://www.starnewskorea.com/broadcast-drama/2026/11/21/2026112123022288319",
-          "sourceLabel": "스타뉴스",
-          "expansions": [
-            "성범죄자 알림e",
-            "성범죄경력조회서",
-            "로 앤 오더 성범죄전담반 28",
-            "성범죄경력조회",
-            "성범죄자조회",
-            "성범죄변호사",
-            "성범죄자",
-            "아동성범죄자"
-          ],
-          "expansionSeed": "유연석",
-          "ago": "2026.11.21 ・ 23:06",
-          "publishedLabel": "2026-11-21T14:06:04.000Z",
-          "image": "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123022288319_1.jpg",
-          "insight": {
-            "titles": {
-              "seo": "유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\" 최신 이슈와 핵심 내용 정리",
-              "home": "유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\", 유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\" 관련 확인할 점",
-              "topic": "유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\"",
-              "topicGroup": "이슈 실시간 검색어"
-            },
-            "facts": [
-              {
-                "text": "스타뉴스 최신 기사 · 유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\"",
-                "sourceIndex": 0
-              }
-            ],
-            "links": [
-              {
-                "url": "https://www.starnewskorea.com/broadcast-drama/2026/11/21/2026112123022288319",
-                "press": "스타뉴스"
-              }
-            ],
-            "images": [
-              "https://image.starnewskorea.com/cdn-cgi/image/f=avif,w=150,h=150,fit=cover,g=face/21/2026/11/2026112123022288319_1.jpg"
-            ],
-            "press": [
-              "스타뉴스"
-            ],
-            "headlines": [
-              "유연석, 성범죄 피해자 9명 충격..서현진 증거 찾고 눈물 \"끝났네요\""
-            ],
-            "extraction": "playwright",
-            "collectedAt": "2026-11-21T17:12:38.130Z"
+            "collectedAt": "2026-11-21T22:14:13.450Z"
           }
         }
       ]
     }
   ],
-  "updatedAt": "2026-11-21T17:15:13.580Z"
+  "updatedAt": "2026-11-21T22:16:39.031Z"
 }
